@@ -1,0 +1,401 @@
+place,id,district,region,event_location_id
+Nur Shams R.C.,1,Tulkarm,West Bank,0
+Nur Shams R.C.,2,Tulkarm,West Bank,0
+Kfar Dan,3,Jenin,West Bank,2
+'Aqbat Jaber R.C.,4,Jericho,West Bank,3
+Jenin R.C.,5,Jenin,West Bank,4
+Jenin R.C.,6,Jenin,West Bank,4
+Gaza City,7,Gaza,Gaza Strip,6
+Jenin R.C.,8,Jenin,West Bank,4
+Jenin R.C.,9,Jenin,West Bank,4
+al-'Arrub R.C.,10,Hebron,West Bank,9
+Argaman,11,Jericho,West Bank,10
+Nur Shams R.C.,12,Tulkarm,West Bank,0
+'Aqqabah,13,Tubas,West Bank,12
+Beit Sira,14,Ramallah and al-Bira,West Bank,13
+al-Musrarah,15,East Jerusalem,West Bank,14
+a-Zababidah,16,Jenin,West Bank,15
+Beit Hagai,17,Hebron,West Bank,16
+Huwarah,18,Nablus,West Bank,17
+Huwarah,19,Nablus,West Bank,17
+Jenin,20,Jenin,West Bank,19
+Balata R.C.,21,Nablus,West Bank,20
+'Aqbat Jaber R.C.,22,Jericho,West Bank,3
+'Aqbat Jaber R.C.,23,Jericho,West Bank,3
+Tulkarm R.C.,24,Tulkarm,West Bank,23
+Nablus,25,Nablus,West Bank,24
+Bir al-Basha,26,Jenin,West Bank,25
+Bir al-Basha,27,Jenin,West Bank,25
+Bir al-Basha,28,Jenin,West Bank,25
+Tel Aviv-Yafo,29,Israel,Israel,28
+Tel Aviv-Yafo,30,Israel,Israel,28
+Burqah,31,Ramallah and al-Bira,West Bank,30
+Tulkarm,32,Tulkarm,West Bank,31
+Ofra,33,Ramallah and al-Bira,West Bank,32
+Ma'ale Adumim,34,al-Quds,West Bank,33
+Mitzpe Eshtamoa,35,Hebron,West Bank,34
+'Ein Beit al-Maa R.C.,36,Nablus,West Bank,35
+Nablus,37,Nablus,West Bank,24
+Nablus,38,Nablus,West Bank,24
+Nablus,39,Nablus,West Bank,24
+Sabastiya,40,Nablus,West Bank,39
+Um Safa,41,Ramallah and al-Bira,West Bank,40
+Nablus,42,Nablus,West Bank,24
+Deir Nizam,43,Ramallah and al-Bira,West Bank,42
+Nablus,44,Nablus,West Bank,24
+Nablus,45,Nablus,West Bank,24
+Um Safa,46,Ramallah and al-Bira,West Bank,40
+Tel Aviv-Yafo,47,Israel,Israel,28
+Jenin,48,Jenin,West Bank,19
+Jenin,49,Jenin,West Bank,19
+Jenin R.C.,50,Jenin,West Bank,4
+Jenin R.C.,51,Jenin,West Bank,4
+Jenin R.C.,52,Jenin,West Bank,4
+al-Birah,53,Ramallah and al-Bira,West Bank,52
+Jenin R.C.,54,Jenin,West Bank,4
+Jenin R.C.,55,Jenin,West Bank,4
+Jenin R.C.,56,Jenin,West Bank,4
+Jenin R.C.,57,Jenin,West Bank,4
+Jenin R.C.,58,Jenin,West Bank,4
+Jenin R.C.,59,Jenin,West Bank,4
+Jenin,60,Jenin,West Bank,19
+Qalandia,61,al-Quds,West Bank,60
+'Askar R.C.,62,Nablus,West Bank,61
+Jenin,63,Jenin,West Bank,19
+Jenin,64,Jenin,West Bank,19
+Turmusaya,65,Ramallah and al-Bira,West Bank,64
+Jenin,66,Jenin,West Bank,19
+Eli,67,Nablus,West Bank,66
+Tubas,68,Tubas,West Bank,67
+Eli,69,Nablus,West Bank,66
+Eli,70,Nablus,West Bank,66
+Eli,71,Nablus,West Bank,66
+Eli,72,Nablus,West Bank,66
+Jenin R.C.,73,Jenin,West Bank,4
+Jenin R.C.,74,Jenin,West Bank,4
+Husan,75,Bethlehem,West Bank,74
+Jenin R.C.,76,Jenin,West Bank,4
+Jenin R.C.,77,Jenin,West Bank,4
+Jenin R.C.,78,Jenin,West Bank,4
+Jenin R.C.,79,Jenin,West Bank,4
+Jenin R.C.,80,Jenin,West Bank,4
+Nablus,81,Nablus,West Bank,24
+Balata R.C.,82,Nablus,West Bank,20
+Rantis,83,Ramallah and al-Bira,West Bank,82
+a-Nabi Saleh,84,Ramallah and al-Bira,West Bank,83
+Hermesh,85,Jenin,West Bank,84
+Jenin,86,Jenin,West Bank,19
+Tene,87,Hebron,West Bank,86
+Balata R.C.,88,Nablus,West Bank,20
+Balata R.C.,89,Nablus,West Bank,20
+Balata R.C.,90,Nablus,West Bank,20
+'Askar R.C.,91,Nablus,West Bank,61
+Balata R.C.,92,Nablus,West Bank,20
+Barta'ah a-Sharqiyah,93,Jenin,West Bank,92
+Balata R.C.,94,Nablus,West Bank,20
+Gaza City,95,Gaza,Gaza Strip,6
+Gaza City,96,Gaza,Gaza Strip,6
+Khan Yunis,97,Khan Yunis,Gaza Strip,96
+Nur Shams R.C.,98,Tulkarm,West Bank,0
+Khan Yunis,99,Khan Yunis,Gaza Strip,96
+Rehovot,100,Israel,Israel,99
+Bani Suheila,101,Khan Yunis,Gaza Strip,100
+a-Nuseirat R.C.,102,Deir al-Balah,Gaza Strip,101
+Jabalya R.C.,103,North Gaza,Gaza Strip,102
+Jabalya R.C.,104,North Gaza,Gaza Strip,102
+Gaza City,105,Gaza,Gaza Strip,6
+Gaza City,106,Gaza,Gaza Strip,6
+Khan Yunis,107,Khan Yunis,Gaza Strip,96
+Qabatiyah,108,Jenin,West Bank,107
+'Abasan al-Kabirah,109,Khan Yunis,Gaza Strip,108
+'Abasan al-Kabirah,110,Khan Yunis,Gaza Strip,108
+Shokat a-Sufi,111,Rafah,Gaza Strip,110
+Shokat a-Sufi,112,Rafah,Gaza Strip,110
+Qabatiyah,113,Jenin,West Bank,107
+Qabatiyah,114,Jenin,West Bank,107
+Gaza City,115,Gaza,Gaza Strip,6
+Gaza City,116,Gaza,Gaza Strip,6
+al-Qararah,117,Khan Yunis,Gaza Strip,116
+al-Qararah,118,Khan Yunis,Gaza Strip,116
+Gaza City,119,Gaza,Gaza Strip,6
+Gaza City,120,Gaza,Gaza Strip,6
+Gaza City,121,Gaza,Gaza Strip,6
+Gaza City,122,Gaza,Gaza Strip,6
+Gaza City,123,Gaza,Gaza Strip,6
+Rafah,124,Rafah,Gaza Strip,123
+Gaza City,125,Gaza,Gaza Strip,6
+Rafah,126,Rafah,Gaza Strip,123
+Gaza City,127,Gaza,Gaza Strip,6
+Gaza City,128,Gaza,Gaza Strip,6
+Gaza City,129,Gaza,Gaza Strip,6
+Tulkarm R.C.,130,Tulkarm,West Bank,23
+Tulkarm R.C.,131,Tulkarm,West Bank,23
+Huwarah,132,Nablus,West Bank,17
+Nablus,133,Nablus,West Bank,24
+Nablus,134,Nablus,West Bank,24
+Nablus,135,Nablus,West Bank,24
+Gaza City,136,Gaza,Gaza Strip,6
+'Aqbat Jaber R.C.,137,Jericho,West Bank,3
+Tekoa,138,Bethlehem,West Bank,137
+Ari'el,139,Nablus,West Bank,138
+'Aqbat Jaber R.C.,140,Jericho,West Bank,3
+Elon Moreh,141,Nablus,West Bank,140
+Elon Moreh,142,Nablus,West Bank,140
+'Aqbat Jaber R.C.,143,Jericho,West Bank,3
+'Azzun,144,Qalqiliya,West Bank,143
+Hamra,145,Jericho,West Bank,144
+Hamra,146,Jericho,West Bank,144
+Hamra,147,Jericho,West Bank,144
+Nablus,148,Nablus,West Bank,24
+Nablus,149,Nablus,West Bank,24
+Beit Ummar,150,Hebron,West Bank,149
+'Izbat Shufah,151,Tulkarm,West Bank,150
+al-Birah,152,Ramallah and al-Bira,West Bank,52
+Jenin,153,Jenin,West Bank,19
+Jenin,154,Jenin,West Bank,19
+Jenin,155,Jenin,West Bank,19
+Jenin,156,Jenin,West Bank,19
+Sarra,157,Nablus,West Bank,156
+Sarra,158,Nablus,West Bank,156
+Sarra,159,Nablus,West Bank,156
+Havat Dorot Ilit,160,Qalqiliya,West Bank,159
+Qalqiliyah,161,Qalqiliya,West Bank,160
+Tel Aviv-Yafo,162,Israel,Israel,28
+Jaba',163,Jenin,West Bank,162
+Tel Aviv-Yafo,164,Israel,Israel,28
+Jaba',165,Jenin,West Bank,162
+Jaba',166,Jenin,West Bank,162
+Jenin R.C.,167,Jenin,West Bank,4
+Jenin,168,Jenin,West Bank,19
+Jenin R.C.,169,Jenin,West Bank,4
+Jenin R.C.,170,Jenin,West Bank,4
+Jenin R.C.,171,Jenin,West Bank,4
+Jenin R.C.,172,Jenin,West Bank,4
+Jenin R.C.,173,Jenin,West Bank,4
+'Azzun,174,Qalqiliya,West Bank,143
+'Aqbat Jaber R.C.,175,Jericho,West Bank,3
+Jericho,176,Jericho,West Bank,175
+Huwarah,177,Nablus,West Bank,17
+Huwarah,178,Nablus,West Bank,17
+al-'Arrub R.C.,179,Hebron,West Bank,9
+Nablus,180,Nablus,West Bank,24
+Nablus,181,Nablus,West Bank,24
+Nablus,182,Nablus,West Bank,24
+Nablus,183,Nablus,West Bank,24
+Nablus,184,Nablus,West Bank,24
+Nablus,185,Nablus,West Bank,24
+Nablus,186,Nablus,West Bank,24
+Nablus,187,Nablus,West Bank,24
+Nablus,188,Nablus,West Bank,24
+Nablus,189,Nablus,West Bank,24
+Nablus,190,Nablus,West Bank,24
+al-Far'ah R.C.,191,Tubas,West Bank,190
+Nablus,192,Nablus,West Bank,24
+Jenin R.C.,193,Jenin,West Bank,4
+Jenin R.C.,194,Jenin,West Bank,4
+Qarawat Bani Hassan,195,Salfit,West Bank,194
+Ramot Alon,196,East Jerusalem,West Bank,195
+Ramot Alon,197,East Jerusalem,West Bank,195
+Ramot Alon,198,East Jerusalem,West Bank,195
+Ramot Alon,199,East Jerusalem,West Bank,195
+al-Fawar R.C.,200,Hebron,West Bank,199
+Balata R.C.,201,Nablus,West Bank,20
+Nablus,202,Nablus,West Bank,24
+'Aqbat Jaber R.C.,203,Jericho,West Bank,3
+'Aqbat Jaber R.C.,204,Jericho,West Bank,3
+'Aqbat Jaber R.C.,205,Jericho,West Bank,3
+'Aqbat Jaber R.C.,206,Jericho,West Bank,3
+'Aqbat Jaber R.C.,207,Jericho,West Bank,3
+Huwarah,208,Nablus,West Bank,17
+Hebron,209,Hebron,West Bank,208
+Kedumim,210,Tulkarm,West Bank,209
+Neve Ya'akov,211,East Jerusalem,West Bank,210
+Neve Ya'akov,212,East Jerusalem,West Bank,210
+Neve Ya'akov,213,East Jerusalem,West Bank,210
+Neve Ya'akov,214,East Jerusalem,West Bank,210
+Neve Ya'akov,215,East Jerusalem,West Bank,210
+Neve Ya'akov,216,East Jerusalem,West Bank,210
+Neve Ya'akov,217,East Jerusalem,West Bank,210
+Jenin R.C.,218,Jenin,West Bank,4
+Jenin R.C.,219,Jenin,West Bank,4
+Jenin R.C.,220,Jenin,West Bank,4
+Jenin R.C.,221,Jenin,West Bank,4
+Jenin R.C.,222,Jenin,West Bank,4
+Jenin R.C.,223,Jenin,West Bank,4
+Jenin R.C.,224,Jenin,West Bank,4
+a-Ram,225,al-Quds,West Bank,224
+Jenin R.C.,226,Jenin,West Bank,4
+Jenin R.C.,227,Jenin,West Bank,4
+Jenin R.C.,228,Jenin,West Bank,4
+'Anata new (Dahiyat a-Salam),229,East Jerusalem,West Bank,228
+Silwan,230,East Jerusalem,West Bank,229
+Kedumim,231,Tulkarm,West Bank,209
+a-Duheisheh R.C.,232,Bethlehem,West Bank,231
+Sde Ephraim farm,233,Ramallah and al-Bira,West Bank,232
+Jenin R.C.,234,Jenin,West Bank,4
+Jenin R.C.,235,Jenin,West Bank,4
+Halhul,236,Hebron,West Bank,235
+Silwad,237,Ramallah and al-Bira,West Bank,236
+al-Fandaqumiyah,238,Jenin,West Bank,237
+al-Fandaqumiyah,239,Jenin,West Bank,237
+Qabatiyah,240,Jenin,West Bank,107
+Qabatiyah,241,Jenin,West Bank,107
+Mitzpe Eshtamoa,242,Hebron,West Bank,34
+Qalandia R.C.,243,al-Quds,West Bank,242
+Balata R.C.,244,Nablus,West Bank,20
+Balata R.C.,245,Nablus,West Bank,20
+a-Duheisheh R.C.,246,Bethlehem,West Bank,231
+Kfar Dan,247,Jenin,West Bank,2
+Kfar Dan,248,Jenin,West Bank,2
+Kfar Dan,249,Jenin,West Bank,2
+Nablus,250,Nablus,West Bank,24
+Jenin,251,Jenin,West Bank,19
+Jenin,252,Jenin,West Bank,19
+Jenin,253,Jenin,West Bank,19
+'Abud,254,Ramallah and al-Bira,West Bank,253
+Jenin,255,Jenin,West Bank,19
+Deir Dobwan,256,Ramallah and al-Bira,West Bank,255
+a-Duheisheh R.C.,257,Bethlehem,West Bank,231
+Huwarah,258,Nablus,West Bank,17
+Jenin R.C.,259,Jenin,West Bank,4
+Jenin R.C.,260,Jenin,West Bank,4
+Ya'bad,261,Jenin,West Bank,260
+al-Birah,262,Ramallah and al-Bira,West Bank,52
+Kafr Ein,263,Ramallah and al-Bira,West Bank,262
+Kafr Ein,264,Ramallah and al-Bira,West Bank,262
+al-Mughayir,265,Ramallah and al-Bira,West Bank,264
+Beit Ummar,266,Hebron,West Bank,149
+Jerusalem,267,Israel,Israel,266
+Jerusalem,268,Israel,Israel,266
+Nablus,269,Nablus,West Bank,24
+Nablus,270,Nablus,West Bank,24
+Jenin,271,Jenin,West Bank,19
+Ari'el,272,Nablus,West Bank,138
+Ari'el,273,Nablus,West Bank,138
+Ari'el,274,Nablus,West Bank,138
+Ari'el,275,Nablus,West Bank,138
+Bitunya,276,Ramallah and al-Bira,West Bank,275
+'Anin,277,Jenin,West Bank,276
+Nablus,278,Nablus,West Bank,24
+al-Mazra'ah a-Sharqiyah,279,Ramallah and al-Bira,West Bank,278
+Jenin R.C.,280,Jenin,West Bank,4
+Old City (Jerusalem),281,East Jerusalem,West Bank,280
+Beit Duqu,282,al-Quds,West Bank,281
+Jenin R.C.,283,Jenin,West Bank,4
+Beit 'Ur al-Foqa,284,Ramallah and al-Bira,West Bank,283
+Giv'at Ha'avot,285,Hebron,West Bank,284
+Huwarah,286,Nablus,West Bank,17
+Huwarah,287,Nablus,West Bank,17
+a-Nabi Saleh,288,Ramallah and al-Bira,West Bank,83
+Nablus,289,Nablus,West Bank,24
+Nablus,290,Nablus,West Bank,24
+Nablus,291,Nablus,West Bank,24
+Nablus,292,Nablus,West Bank,24
+al-Funduq,293,Qalqiliya,West Bank,292
+Nablus,294,Nablus,West Bank,24
+Qalqiliyah,295,Qalqiliya,West Bank,160
+Jenin,296,Jenin,West Bank,19
+Ma'ale Adumim,297,Ramallah and al-Bira,West Bank,296
+Beit El,298,Ramallah and al-Bira,West Bank,297
+Qarawat Bani Hassan,299,Salfit,West Bank,194
+Jenin R.C.,300,Jenin,West Bank,4
+Jenin R.C.,301,Jenin,West Bank,4
+al-'Arrub R.C.,302,Hebron,West Bank,9
+Jenin,303,Jenin,West Bank,19
+Jenin,304,Jenin,West Bank,19
+Qalqiliyah,305,Qalqiliya,West Bank,160
+al-Mazra'ah al-Qibliyah,306,Ramallah and al-Bira,West Bank,305
+Deir al-Hatab,307,Nablus,West Bank,306
+al-Jalazun R.C.,308,Ramallah and al-Bira,West Bank,307
+al-Jalazun R.C.,309,Ramallah and al-Bira,West Bank,307
+al-'Eizariyah,310,al-Quds,West Bank,309
+Jenin R.C.,311,Jenin,West Bank,4
+Jenin R.C.,312,Jenin,West Bank,4
+Jenin R.C.,313,Jenin,West Bank,4
+Jenin,314,Jenin,West Bank,19
+Jenin,315,Jenin,West Bank,19
+al-Birah,316,Ramallah and al-Bira,West Bank,52
+Nablus,317,Nablus,West Bank,24
+Havat Gilad,318,Qalqiliya,West Bank,317
+Modi'in,319,Israel,Israel,318
+Holon,320,Israel,Israel,319
+Kfar Dan,321,Jenin,West Bank,2
+al-Jalameh,322,Jenin,West Bank,321
+al-Jalameh,323,Jenin,West Bank,321
+al-Birah,324,Ramallah and al-Bira,West Bank,52
+al-Far'ah R.C.,325,Tubas,West Bank,190
+Jenin,326,Jenin,West Bank,19
+Jenin,327,Jenin,West Bank,19
+Qabatiyah,328,Jenin,West Bank,107
+Beit 'Einun,329,Hebron,West Bank,328
+al-Birah,330,Ramallah and al-Bira,West Bank,52
+Tubas,331,Tubas,West Bank,67
+Nablus,332,Nablus,West Bank,24
+Kafr 'Aqab (Jerusalem),333,East Jerusalem,West Bank,332
+Nablus,334,Nablus,West Bank,24
+Hebron,335,Hebron,West Bank,208
+Nablus,336,Nablus,West Bank,24
+Nablus,337,Nablus,West Bank,24
+Nablus,338,Nablus,West Bank,24
+Jabalya R.C.,339,North Gaza,Gaza Strip,102
+Jabalya R.C.,340,North Gaza,Gaza Strip,102
+Jabalya R.C.,341,North Gaza,Gaza Strip,102
+Jabalya R.C.,342,North Gaza,Gaza Strip,102
+Jabalya R.C.,343,North Gaza,Gaza Strip,102
+Gaza City,344,Gaza,Gaza Strip,6
+Gaza City,345,Gaza,Gaza Strip,6
+Gaza City,346,Gaza,Gaza Strip,6
+Gaza City,347,Gaza,Gaza Strip,6
+Beit Hanoun,348,North Gaza,Gaza Strip,347
+Rafah R.C.,349,Rafah,Gaza Strip,348
+Rafah R.C.,350,Rafah,Gaza Strip,348
+Rafah R.C.,351,Rafah,Gaza Strip,348
+Rafah R.C.,352,Rafah,Gaza Strip,348
+Rafah R.C.,353,Rafah,Gaza Strip,348
+Rafah R.C.,354,Rafah,Gaza Strip,348
+Rafah R.C.,355,Rafah,Gaza Strip,348
+Khan Yunis,356,Khan Yunis,Gaza Strip,96
+Khan Yunis,357,Khan Yunis,Gaza Strip,96
+Beit Hanoun,358,North Gaza,Gaza Strip,347
+'Abasan al-Jadidah (a-Saghirah),359,Khan Yunis,Gaza Strip,358
+Jabalya,360,North Gaza,Gaza Strip,359
+al-Fukhari,361,Khan Yunis,Gaza Strip,360
+Gaza City,362,Gaza,Gaza Strip,6
+Gaza City,363,Gaza,Gaza Strip,6
+Khan Yunis,364,Khan Yunis,Gaza Strip,96
+Khan Yunis,365,Khan Yunis,Gaza Strip,96
+Khan Yunis,366,Khan Yunis,Gaza Strip,96
+Gaza City,367,Gaza,Gaza Strip,6
+Beit Lahiya,368,North Gaza,Gaza Strip,367
+Gaza City,369,Gaza,Gaza Strip,6
+Gaza City,370,Gaza,Gaza Strip,6
+Gaza City,371,Gaza,Gaza Strip,6
+Jenin R.C.,372,Jenin,West Bank,4
+Huwarah,373,Nablus,West Bank,17
+Nablus,374,Nablus,West Bank,24
+Nablus,375,Nablus,West Bank,24
+Nablus,376,Nablus,West Bank,24
+Jaba',377,Jenin,West Bank,162
+Jaba',378,Jenin,West Bank,162
+Jenin,379,Jenin,West Bank,19
+Silwad,380,Ramallah and al-Bira,West Bank,236
+Iskaka,381,Salfit,West Bank,380
+Qalqiliyah,382,Qalqiliya,West Bank,160
+Jenin,383,Jenin,West Bank,19
+Jenin,384,Jenin,West Bank,19
+Jenin,385,Jenin,West Bank,19
+Halhul,386,Hebron,West Bank,235
+al-Midyah,387,Ramallah and al-Bira,West Bank,386
+a-Duheisheh R.C.,388,Bethlehem,West Bank,231
+Ya'bad,389,Jenin,West Bank,260
+Ya'bad,390,Jenin,West Bank,260
+al-'Arrub R.C.,391,Hebron,West Bank,9
+al-Khader,392,Bethlehem,West Bank,391
+Nablus,393,Nablus,West Bank,24
+Jenin,394,Jenin,West Bank,19
+Jenin,395,Jenin,West Bank,19
+al-Birah,396,Ramallah and al-Bira,West Bank,52
+Jenin,397,Jenin,West Bank,19
+Far'on,398,Tulkarm,West Bank,397
+Tekoa,399,Bethlehem,West Bank,137
+Elad,400,Israel,Israel,399

@@ -1,0 +1,401 @@
+name,id,age,gender,origin_id,event_date_id,residence_id,killing_info_id,event_location_id
+'Abd a-Rahman Suleiman Muhammad Abu Daghash,1,32,M,0,0,0,0,0
+Usayed Farhan Muhammad 'Ali Abu 'Ali,2,21,M,0,0,0,0,0
+'Abdallah 'Imad Sa'ed Abu Hassan,3,16,M,0,2,2,0,2
+Durgham Muhammad Yihya al-Akhras,4,19,M,0,3,3,0,3
+Raafat 'Omar Ahmad Khamaisah,5,15,M,0,4,4,0,4
+'Ata Yasser 'Ata Musa,6,29,M,0,5,4,5,4
+Yusef Salem Yusef Radwan,7,24,M,0,4,6,0,6
+Mahmoud Khaled S'ud 'Ar'arawi,8,25,M,0,4,7,5,4
+Mahmoud 'Ali Nafe'a a-S'adi,9,23,M,0,4,7,5,4
+Milad Munzer Wajih a-Ra'i,10,15,M,0,9,9,0,9
+Muhammad Yusef Isma'il Zbeidat,11,16,M,0,10,10,0,10
+'Ayed Samih Khaled Abu Harb,12,21,M,0,10,0,0,0
+'Abd a-Rahim Fayez 'Awad Ghanam,13,45,M,0,12,12,0,12
+Dawood 'Abd a-Razeq Fayez Fayez,14,41,M,0,13,13,0,13
+Khaled Samer Fadel a-Z'anin,15,14,M,0,14,14,14,14
+'Othman 'Atef Muhammad Abu Kharj,16,17,M,0,15,15,0,15
+Batsheva Nagari,17,40,F,16,16,16,16,16
+Aviad Nir,18,28,M,16,17,17,16,17
+Shai Silas Nigerker,19,60,M,16,17,17,16,17
+Mustafa Akram Mustafa Qumbu',20,32,M,0,19,4,0,19
+Muhammad Naser Salem Dawood,21,19,M,0,20,20,0,20
+Qusai 'Omar Muhammad Suliman,22,16,M,0,21,21,0,3
+Muhammad Ribhe Mahmoud Njum,23,25,M,0,21,3,0,3
+Mahmoud Jihad 'Abd a-Razeq Jarad,24,24,M,0,23,23,0,23
+Amir Ahmad Muhammad Khalifah,25,24,M,0,24,24,0,24
+Khalil Nizar Nimer Abu Na'asah,26,21,M,0,25,7,0,25
+Nayef Jihad Nayef Abu Sweis,27,26,M,0,25,7,0,25
+Baraa Ahmad Fayez al-Qaram,28,16,M,0,25,27,0,25
+Kamel Mahmoud Kamel Abu Baker,29,22,M,0,28,28,28,28
+Chen Amir,30,42,M,16,28,29,16,28
+Qusai Jamal Muhammad Mu'tan,31,18,M,0,30,30,28,30
+Mahmoud Husam Hassan Abu Sa'an,32,17,M,0,30,0,0,31
+Ramzi Fathi 'Abd a-Rahman Hamed,33,17,M,0,32,32,0,32
+Muhannad Muhammad Suleiman Mazar'ah,34,20,M,0,33,33,0,33
+Muhammad Farid Shawqi Ibrahim Za'arir,35,15,M,0,33,34,0,34
+Muhammad 'Abd al-Hakim Na'im Nada,36,23,M,0,35,24,0,35
+Nur a-Din Taysir Khalil 'Ardah,37,32,M,0,36,36,0,24
+Muntasser Bahajat Muhammad 'Ali Salamah,38,32,M,0,36,36,0,24
+Sa'ed Maher Taher Kharaz,39,42,M,0,36,36,0,24
+Fawzi Hani Fawzi Makhalfeh,40,18,M,0,39,39,0,39
+Muhammad Fouad 'Ata Bayed,41,16,M,0,39,40,,40
+Bader Sami Ribhi Masri,42,18,M,0,41,36,0,24
+Bilal Ibrahim Hussni Qadah,43,33,M,0,42,42,0,42
+Hamzah Muayad Muhammad Maqbul,44,32,M,0,43,36,0,24
+Khayri Muhammad Sari Jamal Shahin,45,34,M,0,43,36,0,24
+'Abd al-Jawad Hamdan 'Abd al-Jawad Dar Saleh,46,24,M,0,43,45,0,40
+'Abd al-Wahab 'Issa Hussein Khalaylah,47,20,M,0,46,34,28,28
+Jawad Mujahed Mahmoud Nu'irat,48,20,M,0,46,47,0,19
+'Abd a-Rahman Hassan Ahmad Hardan,49,16,M,0,46,48,0,19
+Ahmad Muhammad Ahmad 'Amer,50,21,M,0,49,7,0,4
+Aws Hani Hassan Hanun,51,19,M,0,49,7,5,4
+'Ali Hani 'Ali al-Ghul,52,18,M,0,49,7,0,4
+Muhammad 'Imad Sa'ed Hasanein,53,21,M,0,49,52,0,52
+Samih Firas Samih Abu al-Wafa,54,19,M,0,49,7,5,4
+Husam Muhammad Ahmad Abu Dib,55,19,M,0,49,7,5,4
+Muhammad Muhannad Yusef Shami,56,26,M,0,49,7,0,4
+Majdi Yunes So'ud 'Ar'arawi,57,17,M,0,49,7,0,4
+Nur a-Din Husam Yusef Marshud,58,15,M,0,49,7,0,4
+Mustafa 'Imad 'Ali Qassem,59,16,M,0,49,7,0,4
+'Iz a-Din Mahmoud Khalil Abu 'On,60,19,M,0,59,59,0,19
+Ishaq Hamdi Amin 'Ajlouni,61,16,M,0,60,60,0,60
+Tareq Musa Khalil Idris,62,39,M,0,61,61,0,61
+Suhaib 'Adnan Jum'ah Musa (al-Ghul),63,28,M,0,62,7,5,19
+Muhammad Bashar Rateb 'Aweis,64,27,M,0,62,7,5,19
+'Omar Hisham 'Abdallah Jbarah,65,24,M,0,62,64,0,64
+Ashraf Murad Mahmoud a-S'adi,66,15,M,0,62,7,5,19
+Nachman Shmuel Mordoff,67,17,M,16,66,66,16,66
+Khaled Mustafa 'Abd a-Latif Sabah,68,24,M,0,66,67,0,67
+Muhannad Falah 'Abdallah Shihadah,69,25,M,0,66,67,28,66
+Harel Ma'sud,70,21,M,16,66,69,16,66
+Elisha Antman,71,18,M,16,66,70,16,66
+Ofer Fairman,72,64,M,16,66,70,16,66
+Ahmad Khaled Fayez Daraghmeh,73,18,M,0,72,72,0,4
+Sadil Ghassan Ibrahim Naghnaghiyah,74,14,F,0,73,7,0,4
+Zakaria Muhammad Zakaria Za'ul,75,19,M,0,72,74,0,74
+Amjad 'Aref Fayad Abu J'aus,76,48,M,0,75,7,0,4
+Khaled 'Azzam Khaled Darwish,77,21,M,0,72,4,0,4
+Qays Majdi 'Adel Jabarin,78,19,M,0,72,7,0,4
+Ahmad Yusef Ahmad Saqer,79,14,M,0,72,78,0,4
+Qassam Feisal Mustafa Abu Siriyah,80,31,M,0,72,7,0,4
+Khalil Yihya Anis Yihya,81,19,M,0,80,24,0,24
+Fares 'Abd al-Mun'im Muhammad Hashash,82,19,M,0,81,20,0,20
+Mahdi Samir Muhammad Bayadsah,83,29,M,0,82,52,0,82
+Muhammad Haitham Ibrahim Tamimi,84,2,M,0,83,83,0,83
+Meir Tamari,85,32,M,16,84,84,16,84
+Ashraf Muhammad Amin Ibrahim,86,38,M,0,85,4,0,19
+'Alaa Khalil 'Ali Qeisiyah,87,25,M,0,86,86,28,86
+'Abdallah Yusef Muhammad Abu Hamdan,88,24,M,0,87,20,0,20
+Fathi Jihad 'Abd a-Salam Rizeq,89,30,M,0,87,20,0,20
+Muhammad Bilal Muhammad Zaytun,90,30,M,0,87,20,0,20
+Saleh Muhammad Saleh Sabrah,91,22,M,0,90,90,0,61
+Wasim 'Adnan Yusef al-A'araj,92,19,M,0,91,20,0,20
+Ahmad Muhammad Taysir 'Atatri,93,32,M,0,91,4,0,92
+Saed Shaker Jihad Masheh,94,32,M,0,91,20,0,20
+Iyad al-'Abed al-Hasani,95,51,M,0,94,94,5,6
+Muhammad Walid Muhammad 'Abd al-'Aal,96,33,M,0,94,94,5,6
+'Ali Hassan Muhammad Ghali,97,49,M,0,96,6,5,96
+Ghazi Yusef Mustafa Shihab,98,66,M,0,96,0,0,0
+Mahmoud Walid Mahmoud 'Abd al-Jawad,99,25,M,0,96,98,5,96
+Inga Avramyan,100,82,F,16,96,99,99,99
+Ahmad Mahmoud Hamdan Abu Daqah,101,43,M,0,96,100,5,100
+'Udai Riyad Ahmad a-Loh,102,43,M,0,96,101,5,101
+'Alian 'Ata 'Alian Abu Wadi,103,36,M,0,102,102,5,102
+'Abd al-Halim Jawdat Kheir a-Najar,104,21,M,0,96,102,5,102
+Muhammad Suliman Khalil Dader,105,31,M,0,96,104,5,6
+Hussein Yusef 'Abdallah Dalul,106,23,M,0,96,104,5,6
+Mahmoud Hassan Muhammad Ghali,107,33,M,0,96,6,5,96
+Rani Walid Ahmad Qatanat,108,24,M,0,107,7,0,107
+Muhammad Yusef Hussni Abu Ta'imah,109,25,M,0,108,108,5,108
+'Alaa Maher Yasin Abu Ta'imah,110,28,M,0,107,108,5,108
+'Alam a-Din Samir Tawfiq 'Abd al-'Aziz,111,23,M,0,107,98,5,110
+Ayman Karam Hussein Seidam,112,26,M,0,107,98,5,110
+Ahmad Jamal Tawfiq 'Assaf,113,18,M,0,107,112,0,107
+Aws Jamal Amin Hamamdeh,114,30,M,0,113,112,0,107
+Iman 'Alaa 'Ata 'Adas,115,17,F,0,114,104,5,6
+'Ali Tareq Ibrahim 'Iz a-Din,116,8,M,0,114,104,5,6
+Wael Muhammad Sabri al-Agha,117,33,M,0,114,6,5,116
+Saed Jawad 'Abed Farwaneh,118,27,M,0,114,6,5,116
+Tareq Ibrahim Muhammad 'Iz a-Din,119,48,M,0,114,104,5,6
+Jamal Saber Muhammad Khaswan,120,52,M,0,114,104,5,6
+Yusef Jamal Saber Khaswan,121,19,M,0,114,104,5,6
+Mirvat Saleh Muhammad Khaswan,122,44,F,0,114,104,5,6
+Mayar Tareq Muhammad 'Iz a-Din,123,10,F,0,114,104,5,6
+Jihad Shaker Diab 'Abd al-Hafez Ghanam,124,61,M,0,114,98,5,123
+Hajar Khalil Salah al-Bahtini,125,4,F,0,114,104,5,6
+Wafaa Nimer Tawfiq Ghanam,126,61,F,0,114,98,5,123
+Daniyah 'Alaa 'Ata 'Adas,127,19,F,0,114,104,5,6
+Khalil Salah Khaled al-Bahtini,128,44,M,0,114,104,5,6
+Layla Majdi Mustafa al-Bahtini,129,43,F,0,114,104,5,6
+Samer Salah 'Abed Shaf'i,130,20,M,0,129,129,0,23
+Hamzah Jamil Mahmoud Khreiwish,131,23,M,0,129,129,0,23
+Iman Ziad Ahmad 'Odeh,132,26,F,0,131,131,0,17
+Hassan Suliman Hassan Qatnani,133,35,M,0,131,36,0,24
+Mu'az Sa'ed Nabih Masri,134,35,M,0,131,36,0,24
+Ibrahim Ahmad Muhammad Jibrin,135,45,M,0,131,36,0,24
+Hashel Mubarak Salman Mubarak,136,58,M,0,135,102,5,6
+Jebril Muhammad Sa'id Kamal,137,17,M,0,136,3,0,3
+Mustafa 'Amer 'Ali Sabah,138,15,M,0,137,137,0,137
+Ahmad Ya'qub Muhammad Taha,139,39,M,0,138,138,0,138
+Suliman 'Ayesh 'Ayesh 'Aweid,140,21,M,0,139,3,0,3
+So'ud 'Abdallah Sa'id a-Titi,141,38,M,0,140,20,0,140
+Muhammad Ghazi Muhammad Abu Dra',142,35,M,0,140,20,0,140
+Muhammad Fayez Muhammad 'Awadat,143,17,M,0,142,142,0,3
+'Aead 'Azzam Mahmoud Salim,144,19,M,0,143,143,0,143
+Rina Dee,145,16,F,16,144,144,16,144
+Lucy (Leah) Dee,146,48,F,16,145,144,16,144
+Maya Dee,147,20,F,16,144,144,16,144
+Muhammad Naser Muhammad Sa'id,148,20,M,0,147,36,0,24
+Muhammad Mustafa 'Ali Abu Baker,149,42,M,0,147,36,0,24
+Muhammad Raed Nayef Barad'iyah,150,23,M,0,149,149,0,149
+Amir 'Imad Amin Khadijah,151,24,M,0,150,150,,150
+Yazan 'Omar Jamil Khasib,152,22,M,0,151,151,0,52
+Yusef Saleh Yusef Abu Shrein,153,29,M,0,152,4,0,19
+Nidal Amin Zidan Khazem,154,28,M,0,152,7,0,19
+Luai Khalil Ragheb a-Sghayer,155,35,M,0,152,4,0,19
+'Omar Muhammad 'Omar 'Awadin,156,14,M,0,152,4,0,19
+Jihad Muhammad Wasfi Shami,157,24,M,0,156,36,0,156
+'Udai 'Othman Rafiq Shami,158,22,M,0,156,36,0,156
+Muhammad Raed Naji Dabbik,159,18,M,0,156,36,0,156
+'Abd al-Karim Badi'a 'Abd al-Karim Sheikh,160,21,M,0,159,159,28,159
+Amir Maamun Rashid 'Odeh,161,14,M,0,159,160,0,160
+Or Eshkar,162,32,M,16,161,161,16,28
+Sufyan 'Adnan Isma'il Fakhuri,163,29,M,0,162,59,0,162
+al-Mu'taz bi-Allah Salah Muhammad Khawaja,164,23,M,0,162,163,0,28
+Ahmad Muhammad Ahmad Fashafshah,165,22,M,0,162,59,0,162
+Nayef Ahmad Yusef Malayshah,166,25,M,0,162,59,0,162
+al-Mu'tasem bi-Allah Naser Mahmoud Sabbag,167,21,M,0,166,7,0,4
+Walid Sa'ed Dawood Nassar,168,15,M,0,167,4,0,19
+Muhammad Wael Ahmad Ghazawi,169,26,M,0,166,7,0,4
+Tareq Ziad Mustafa Muhammad Natur,170,27,M,0,166,7,0,4
+'Abd al-Fatah Hassan Ibrahim Khrushah,171,49,M,0,166,61,0,4
+Muhammad Ahmad Kheir Hussein Khluof,172,31,M,0,166,171,0,4
+Ziad Amin Hassan Ibrahim,173,29,M,0,166,7,0,4
+Muhammad Nidal Ibrahim Salim,174,17,M,0,173,143,0,143
+Mahmoud Jamal Hassan Hamdan,175,21,M,0,174,3,0,3
+Ilan Ganeles,176,26,M,16,175,,16,175
+Yagel Yaniv,177,20,M,16,176,176,16,17
+Hillel Yaniv,178,22,M,16,176,176,16,17
+Muhammad Isma'il Muhammad Jawabreh,179,20,M,0,178,9,0,9
+'Omayr Muhammad Ghaleb Lolah,180,28,M,0,179,36,0,24
+Muhammad 'Omar Abd al-Ghani 'Abd al-Fatah,181,23,M,0,180,36,,24
+Muhammad Khaled Hamdi 'Anabusi,182,24,M,0,180,36,0,24
+Husam Bassam Bashir Islim,183,23,M,0,180,36,,24
+Mus'ab Munir Muhammad 'Awis,184,25,M,0,180,36,0,24
+Tamer Nimer Ahmad Minawi,185,32,M,0,180,36,0,24
+Jasser Jamil 'Abd al-Wahab Qan'ir,186,22,M,0,180,36,0,24
+Muhammad Farid Muhammad al-Haj Muhammad,187,16,M,0,180,36,0,24
+'Abd al-'Aziz Muhammad 'Abd al-'Aziz al-Ashqar,188,64,M,0,180,36,0,24
+'Adnan Sabe' Hussein Ba'arah,189,71,M,0,180,36,0,24
+Walid Riyad Hussein a-Dakhil,190,23,M,0,180,36,,24
+Mahmoud Majed Muhammad 'Ayed,191,17,M,0,190,190,0,190
+Amir Ihab 'Omar al-Bistami,192,21,M,0,191,36,0,24
+Muhammad Nabil Fawzi Abu Sabah,193,29,M,0,192,7,0,4
+Qusai Radwan Yusef Waked,194,16,M,0,193,193,0,4
+Mithqal Suliman 'Abd al-Halim Rayan,195,27,M,0,194,194,28,194
+Ya'aKov Paley,196,6,M,16,195,195,,195
+Asher פלאי,197,8,M,16,196,195,,195
+Alter לדרמן,198,20,M,16,195,197,,195
+Hussein Khaled Hussein Qaraqe',199,31,M,0,195,198,0,195
+Sharif Hassan Muhammad Wreidat,200,19,M,0,199,86,0,199
+Muntasser Muhammad Dhib a-Shawa,201,16,M,0,200,20,0,20
+Hamzah Amjad Yusef Ashqar,202,16,M,0,201,61,0,24
+Malek 'Awni Jamil Lafy,203,22,M,0,202,3,202,3
+Raafat Wael 'Abd al-Hafez 'Awadat,204,21,M,0,202,3,0,3
+Ibrahim Wael 'Abd al-Hafez 'Awadat,205,27,M,0,202,3,0,3
+'Alaa 'Awedat,206,,M,0,202,3,0,3
+Adham Majdi Fawzi Maqiti,207,22,M,0,202,3,0,3
+'Abdallah Samih Ahmad Qalalwah,208,25,M,0,207,207,0,17
+Nassim Nayef Salman Fuda,209,26,M,0,208,208,0,208
+Karam 'Ali Ahmad Salman,210,18,M,0,209,209,28,209
+Khayri Musa Khayri Alkam,211,21,M,0,210,210,0,210
+Shaul Hai,212,68,M,16,210,211,16,210
+Natali Mizrahi,213,45,F,16,210,212,16,210
+Eli Mizrahi,214,48,M,16,210,212,16,210
+Asher Natan,215,14,M,16,210,214,16,210
+Rafael Ben Eliahu,216,56,M,16,210,197,16,210
+Ilya Sosansky,217,24,M,16,210,214,16,210
+Muhammad Sami Muhammad Ghneim,218,34,M,0,217,171,,4
+Mu'tasem Mahmoud Ahmad Abu Hassan,219,36,M,0,217,2,0,4
+'Omar Tareq 'Ali a-S'adi,220,24,M,0,219,7,0,4
+Nur Sami Muhammad Ghneim,221,22,M,0,217,171,,4
+Wasim Amjad 'Aref Abu J'aus,222,16,M,0,217,7,0,4
+Majedah 'Abd al-Fatah Mahmoud 'Obeid,223,60,F,0,217,7,0,4
+Muhammad Mahmoud Muhammad Subuh,224,34,M,0,217,7,0,4
+Yusef Yihya 'Abd al-Karim Muheisen,225,22,M,0,217,224,0,224
+Saaeb 'Issam Mahmoud Zreiqi,226,25,M,0,217,7,0,4
+'Iz a-Din Yasin Jum'ah Salahat,227,21,M,0,217,7,0,4
+'Abdallah Marwan Jum'ah Musa,228,17,M,0,217,7,0,4
+Muhammad 'Abed Musa Muhammad 'Ali,229,18,M,0,228,142,0,228
+Wadi' 'Abd al-'Aziz Mar'i Abu Ramuz,230,17,M,0,229,229,0,229
+'Aref 'Abd a-Naser 'Aref Lahlouh,231,20,M,0,228,7,0,209
+'Amru Khaled Lutfi al-Khmur,232,14,M,0,231,231,0,231
+Tareq 'Odeh Yusef M'aali,233,42,M,0,232,232,28,232
+Adham Muhammad Bassem Jabarin,234,26,M,0,233,7,0,4
+Jawad Farid Hussein Bawaqnah,235,57,M,0,233,7,0,4
+Hamdi Shaker Ahmad Abu Diyah,236,40,M,0,235,235,0,235
+Ahmad Hassan 'Abd al-Jalil Kahalah,237,45,M,0,236,236,0,236
+'Iz a-Din Bassem Ghaleb Hamamreh,238,22,M,0,237,59,0,237
+Amjad 'Adnan Ahmad Khaliliya,239,20,M,0,237,59,0,237
+'Abd al-Hadi Fakhri Yusef Nazzal,240,18,M,0,239,112,0,107
+Habiballah Muhammad 'Abd a-Rahman Kmeil,241,26,M,0,239,112,0,107
+Sanad Muhammad 'Othman Samamrah,242,18,M,0,241,86,28,34
+Samir 'Awni Harbi Aslan,243,41,M,0,242,242,0,242
+Ahmad 'Amer Salim Abu Jneid,244,21,M,0,241,20,0,20
+'Amer Ghazi Mahmoud Zaytun,245,16,M,0,244,36,0,20
+Adam 'Issam Shaker 'Ayad,246,15,M,0,245,231,0,231
+Muhammad Samer Hassan Hushiyeh,247,21,M,0,246,2,0,2
+Yazan Samer 'Izzat al-Ja'bari,248,19,M,0,247,2,0,2
+Fouad Mahmoud Ahmad A'bed,249,17,M,0,248,248,0,2
+Ahmad 'Atef Mustafa Daraghmeh,250,23,M,0,249,72,0,24
+Jana Majdi 'Issam 'Assaf,251,15,F,0,250,4,0,19
+Sidqi Sadiq Fayeq Jabur (Zakarnah),252,19,M,0,251,4,0,19
+Tareq Fawzi 'Issa Salem (a-Damaj),253,26,M,0,251,7,0,19
+Diyaa Muhammad Shafiq Rahimi,254,16,M,0,251,253,0,253
+'Ata Yasin Mahmoud Shalabi,255,46,M,0,251,112,0,19
+Mujahed Mahmoud Jum'ah Hamed,256,32,M,0,255,32,0,255
+'Omar Yusef Hassan Manna',257,22,M,0,256,231,0,231
+'Ammar Hamdi Nayef Muflih,258,23,M,0,257,257,0,17
+Na'im Jamal 'Abd a-Rahman Zbeidi,259,34,M,0,258,7,0,4
+Muhammad Ayman Shafi' Qassem,260,22,M,0,258,7,0,4
+Muhammad Tawfiq Shaker Badarnah,261,27,M,0,260,260,0,260
+Rani Maamun Fayez Abu 'Ali,262,45,M,0,261,261,0,52
+Jawad 'Abd a-Rahman 'Abd al-Jawad Rimawi,263,22,M,0,261,253,0,262
+Zafer 'Abd a-Rahman 'Abd al-Jawad Rimawi,264,19,M,0,261,253,0,262
+Raed Ghazi 'Eid Na'asan,265,21,M,0,261,264,0,264
+Mufid Muhammad Mahmoud Khlayel,266,44,M,0,265,265,0,149
+Tadasa Tashume Ben Ma'ada,267,50,M,16,266,197,266,266
+Arye Shechopek,268,15,M,16,267,197,266,266
+Muhammad Hisham Muhammad Abu Kishk,269,23,M,0,268,61,0,24
+Ahmad Amjad Muhammad Shihadah,270,16,M,0,269,36,0,24
+Mahmoud 'Abd al-Jalil Huda a-S'adi,271,17,M,0,270,7,0,19
+Michael Ledigin,272,36,M,16,271,29,271,138
+Muhammad Murad Sami Suf,273,18,M,0,271,272,0,138
+Tamir Avihai,274,50,M,16,271,273,,138
+Mordechai Ashkenazi,275,59,M,16,271,274,271,138
+Fullah Rasmi 'Abd al-'Aziz Maluh,276,14,F,0,275,275,0,275
+Raafat 'Ali 'Abdallah 'Ayasah,277,29,M,0,276,276,0,276
+Mahdi Muhammad Hamdallah Hashash,278,15,M,0,276,20,0,24
+Mus'ab Muhammad Mahmoud Nafal,279,18,M,0,278,278,0,278
+Faruq Jamil Hassan Salamah,280,28,M,0,279,7,0,4
+'Amer Husam Bader Halabiyah,281,20,M,0,279,14,0,280
+Dawood Mahmoud Khalil Rayan,282,41,M,0,279,281,0,281
+Muhammad Samer Muhammad Khalluf,283,14,M,0,279,171,0,4
+Habbas 'Abd al-Hafiz Yusef Rayan,284,54,M,0,283,281,0,283
+Ronen Hananya,285,49,M,16,284,284,16,284
+Ramzi Sami Sa'id Zabarah,286,34,M,0,285,61,0,17
+'Imad Yusef Muhammad Abu Rashid,287,50,M,0,285,61,0,17
+Qusai Mahmoud 'Ali Tamimi,288,19,M,0,287,83,0,83
+Wadi' Sabih Wadi' al-Hawah,289,31,M,0,287,36,0,24
+Mash'al Zahi Ahmad al-Baghdadi,290,26,M,0,287,36,0,24
+Hamdi Muhammad Sabri Hamed Sharaf,291,34,M,0,287,36,0,24
+'Ali Khaled 'Omar 'Antar,292,26,M,0,287,36,0,24
+Shalom Sofer,293,63,M,16,292,292,271,292
+Tamer Sufian Fawaz Zeid Kilani,294,32,M,0,293,36,293,24
+Rabi 'Arafah 'Adnan Rabi,295,32,M,0,294,160,0,160
+Salah 'Abd a-Rahim Muhammad 'Abd a-Rahim Breiki,296,19,M,0,295,7,0,19
+'Udai Kamal Muhammad Musa Tamimi,297,22,M,0,296,296,28,296
+Qays 'Imad Khaled Shuja'iyah,298,22,M,0,297,297,0,297
+Mujahed Ahmad Muhammad Sa'id Dawood,299,30,M,0,298,194,0,194
+Matin Fayeq Hussein Dabaya,300,25,M,0,299,7,0,4
+'Abdallah Sa'ed 'Abd al-Karim al-Ahmad,301,42,M,0,299,4,0,4
+Ousamah Mahmoud Hassan 'Adawi,302,17,M,0,301,9,0,9
+Ahmad Muhammad Hussein Daraghmeh,303,18,M,0,302,72,0,19
+Mahmoud Muayad Muhammad Sus,304,17,M,0,302,4,0,19
+'Adel Ibrahim 'Adel Dawood,305,14,M,0,304,160,0,160
+Mahdi Muhammad 'Abd al-Mu'ti Ladadwah,306,17,M,0,304,305,0,305
+'Alaa Naser Ahmad Zaghal,307,21,M,0,306,61,0,306
+Salamah Raafat Muhammad Sa'id Sharay'ah,308,18,M,0,307,307,0,307
+Khaled Fadi Muhammad 'Anbar,309,20,M,0,307,308,0,307
+Fayez Khaled Mahmoud Damdum,310,17,M,0,309,33,0,309
+Muhammad Bader Mahmoud Alunah,311,30,M,0,310,310,0,4
+'Abd a-Rahman Fathi Zidan Khazem,312,27,M,0,310,7,0,4
+Ahmad Taysir Nazmi 'Alawneh,313,25,M,0,310,7,0,4
+Mahmoud Muhammad Khalil Samudi,314,12,M,0,313,2,0,19
+Muhammad Hisham Muhammad Ahmad,315,27,M,0,310,7,0,19
+Muhammad Fadi Hani Nuri,316,16,M,0,315,315,0,52
+Saed 'Adnan 'Izat Kawni,317,22,M,0,316,36,,24
+Muhammad 'Ali Hassan 'Awad,318,36,M,0,317,317,0,317
+Muhammad Ousamah 'Ali Abu Jum'ah,319,23,M,0,318,318,0,318
+Shulamit Rachel Ovadia,320,84,F,16,319,319,,319
+'Udai Trad Hisham Salah,321,17,M,0,320,248,0,2
+Ahmad Ayman Ibrahim A'bed,322,21,M,0,321,248,0,321
+'Abd a-Rahman Hani Subhi A'bed,323,23,M,0,321,248,0,321
+Haitham Hani Muhammad Mubarak,324,16,M,0,323,315,0,52
+Yunes Ghassan Hassan Tayeh,325,20,M,0,324,190,0,190
+Hamad Mustafa Hussein Abu Jildah,326,24,M,0,325,4,0,19
+Muhammad Musa Muhammad Saba'anah,327,28,M,0,326,4,0,19
+Taher Muhammad Taher Zakarneh,328,19,M,0,327,112,0,107
+Fadi Muhammad Fayez Ghattas,329,19,M,0,328,231,0,328
+Yazan Na'im Diab 'Afanah,330,27,M,0,329,242,,52
+Salah Tawfiq Muhammad Suaftah,331,58,M,0,330,72,0,67
+Wasim Naser Muhammad Abu Khalifah,332,19,M,0,331,20,0,24
+Muhammad Ibrahim Kamel Shahham,333,20,M,0,332,60,0,332
+Ibrahim 'Alaa 'Izat Nabulsi,334,18,M,0,333,36,,24
+Muamen Yasin Muhammad Judah Jaber,335,16,M,0,333,208,0,208
+Islam Muhammad Sharif As'ad Sabuh,336,32,M,0,333,36,,24
+Hussein Jamal Hussein Taha,337,16,M,0,333,36,0,24
+Muhammad Marzuq 'Ali 'Arayshi,338,25,M,0,337,36,0,24
+Muhammad Salah Hamed Nijm,339,16,M,0,338,102,5,102
+Jamil Ihab Jamil Nijm,340,13,M,0,338,102,5,102
+Jamil Najm a-Din Jamil Nijm,341,3,M,0,338,102,5,102
+Hamed Haydar Hamed Nijm,342,16,M,0,338,102,5,102
+Nazmi Fayez 'Abd al-Hadi Abu Karsh,343,15,M,0,338,102,5,102
+Khaled Ayman Jamil Yasin,344,27,M,0,338,104,5,6
+Mahmoud Ahmad Sab' Dawood,345,21,M,0,344,104,5,6
+'Abd a-Rahman Jum'ah Khalaf a-Silk,346,19,M,0,338,104,5,6
+Shadi 'Imad Nimer Kahil,347,26,M,0,338,104,5,6
+Ibrahim Shehdeh Salah Abu Salah,348,42,M,0,347,347,5,347
+Ziad Ahmad Khalil al-Modalal,349,35,M,0,348,348,348,348
+Khaled Sa'id Shihadah Mansur,350,46,M,0,348,348,348,348
+Raafat Sameh Ibrahim a-Zamli,351,41,M,0,348,348,348,348
+Muhammad Iyad Muhammad Hasunah,352,13,M,0,348,98,348,348
+Isma'il 'Abd al-Hamid Muhammad Dweik,353,30,M,0,348,348,348,348
+Hanaa Isma'il 'Ali Dweik,354,50,F,0,348,348,348,348
+Alaa Saleh 'Abd al-Muhsen al-Mallahi,355,30,F,0,348,348,348,348
+Tamim Ghassan 'Abdallah Hijazi,356,23,M,0,348,6,5,96
+Ousamah 'Abd a-Rahman Hussein a-Suri,357,27,M,0,348,6,5,96
+Nur a-Din Hussein 'Ali a-Zwiedi,358,18,M,0,348,347,5,347
+Nayef Khaled Nayef al-'Odat,359,10,M,0,358,101,,358
+Hassan Muhammad Hussein Mansur,360,28,M,0,348,359,5,359
+Duniana 'Adnan 'Atiyyah al-'Amur,361,22,F,0,360,360,360,360
+Alaa 'Abdallah Riyad Qadum,362,5,F,0,360,104,5,6
+Yusef Suliman Muhammad Qadum,363,23,M,0,360,104,5,6
+Fadel Mustafa Ajaryu Zo'rub,364,28,M,0,360,6,5,96
+Muhammad Hassan Musa al-Byuk,365,34,M,0,360,6,5,96
+Layan Musleh Hamdi a-Sha'er,366,10,F,0,365,6,5,96
+Ahmad Mazen Mahmoud 'Azzam,367,27,M,0,360,104,360,6
+Muhammad Ahmad 'Abd al-Fatah Nasrallah,368,25,M,0,360,367,360,367
+Taysir Mahmoud Muhammad al-Ja'bari,369,50,M,0,360,104,348,6
+Salamah Muhareb 'Abdallah A'bed,370,38,M,0,360,104,348,6
+'Imad 'Abd a-Rahim Ibrahim Shalah,371,50,M,0,360,104,5,6
+Derar Riyad Lutfi al-Haj Saleh,372,16,M,0,371,4,0,4
+Hussein Hassan Ibrahim Qawariq,373,59,M,0,372,372,0,17
+Muhammad Ahmad Hassan Hirzallah,374,30,M,0,373,36,0,24
+'Abd a-Rahman Jamal Suliman Subuh,375,28,M,0,374,36,0,24
+Muhammad Bashar Nimer 'Azizi,376,24,M,0,374,36,0,24
+Rafiq Riyad Rafiq Ghanam,377,20,M,0,376,59,0,162
+Kamel 'Abdallah Kamel 'Alawneh,378,17,M,0,377,59,0,162
+Muhammad Maher Nafe'a Mar'i,379,25,M,0,378,7,0,19
+Muhammad 'Abdallah Salah Suliman,380,16,M,0,379,32,0,236
+'Ali Hassan Yusef Harb,381,27,M,0,380,380,380,380
+Nabil Ahmad Salim Ghanem,382,53,M,0,381,381,0,160
+Layth Salah Muhammad Is'id (Abu Srur),383,26,M,0,382,4,0,19
+Baraa Kamal Ahmad Lahlouh,384,20,M,0,382,7,0,19
+Yusef Naser Hassan Salah,385,22,M,0,382,4,0,19
+Mahmoud Fayez Mahmoud Karajah,386,28,M,0,385,235,0,235
+'Odeh Muhammad 'Odeh Sadqah,387,16,M,0,386,386,0,386
+Ayman Ahmad Mahmoud Muheisen,388,29,M,0,386,231,0,231
+Bilal Rafiq Tawfiq Qabha,389,26,M,0,388,260,0,260
+Samih Jamal Muhammad 'Amarneh,390,37,M,0,389,260,0,260
+Ghufran Harun Hamed Warasnah,391,30,F,0,388,390,0,9
+Zeid Muhammad Sa'id Ghneim,392,14,M,0,391,391,0,391
+Gheith Muhammad Rafiq Ziad Yamin,393,16,M,0,392,36,0,24
+Amjad Walid Hussein Fayed,394,16,M,0,393,4,0,19
+Dawood Muhammad 'Abd a-Rahman Zbeidi,395,41,M,0,394,7,0,19
+Thaer Khalil Muhammad Mislet,396,16,M,0,395,395,0,52
+Shireen Nasri Anton Abu Akleh,397,51,F,0,395,14,0,19
+Mahmoud Sami Khalil 'Aram,398,27,M,0,397,6,0,397
+Mu'tasem Muhammad Taleb 'Atallah,399,17,M,0,397,398,28,137
+Boaz Gol,400,49,M,16,399,399,,399

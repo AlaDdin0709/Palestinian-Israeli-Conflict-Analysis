@@ -1,0 +1,401 @@
+type_of_injury,id,ammunition,killed_by,killing_info_id
+gunfire,1,live ammunition,Israeli security forces,0.0
+gunfire,2,live ammunition,Israeli security forces,0.0
+gunfire,3,live ammunition,Israeli security forces,0.0
+gunfire,4,live ammunition,Israeli security forces,0.0
+gunfire,5,live ammunition,Israeli security forces,0.0
+gunfire,6,missile,Israeli security forces,5.0
+gunfire,7,live ammunition,Israeli security forces,0.0
+gunfire,8,missile,Israeli security forces,5.0
+gunfire,9,missile,Israeli security forces,5.0
+gunfire,10,live ammunition,Israeli security forces,0.0
+gunfire,11,live ammunition,Israeli security forces,0.0
+gunfire,12,live ammunition,Israeli security forces,0.0
+gunfire,13,live ammunition,Israeli security forces,0.0
+gunfire,14,live ammunition,Israeli security forces,0.0
+stabbing,15,live ammunition,Israeli security forces,14.0
+gunfire,16,live ammunition,Israeli security forces,0.0
+gunfire,17,live ammunition,Palestinian civilians,16.0
+gunfire,18,live ammunition,Palestinian civilians,16.0
+gunfire,19,live ammunition,Palestinian civilians,16.0
+gunfire,20,live ammunition,Israeli security forces,0.0
+gunfire,21,live ammunition,Israeli security forces,0.0
+gunfire,22,live ammunition,Israeli security forces,0.0
+gunfire,23,live ammunition,Israeli security forces,0.0
+gunfire,24,live ammunition,Israeli security forces,0.0
+gunfire,25,live ammunition,Israeli security forces,0.0
+gunfire,26,live ammunition,Israeli security forces,0.0
+gunfire,27,live ammunition,Israeli security forces,0.0
+gunfire,28,live ammunition,Israeli security forces,0.0
+gunfire,29,live ammunition,Israeli civilians,28.0
+gunfire,30,live ammunition,Palestinian civilians,16.0
+gunfire,31,live ammunition,Israeli civilians,28.0
+gunfire,32,live ammunition,Israeli security forces,0.0
+gunfire,33,live ammunition,Israeli security forces,0.0
+gunfire,34,live ammunition,Israeli security forces,0.0
+gunfire,35,live ammunition,Israeli security forces,0.0
+gunfire,36,live ammunition,Israeli security forces,0.0
+gunfire,37,live ammunition,Israeli security forces,0.0
+gunfire,38,live ammunition,Israeli security forces,0.0
+gunfire,39,live ammunition,Israeli security forces,0.0
+gunfire,40,live ammunition,Israeli security forces,0.0
+gunfire,41,,Israeli security forces,
+gunfire,42,live ammunition,Israeli security forces,0.0
+gunfire,43,live ammunition,Israeli security forces,0.0
+gunfire,44,live ammunition,Israeli security forces,0.0
+gunfire,45,live ammunition,Israeli security forces,0.0
+gunfire,46,live ammunition,Israeli security forces,0.0
+gunfire,47,live ammunition,Israeli civilians,28.0
+gunfire,48,live ammunition,Israeli security forces,0.0
+gunfire,49,live ammunition,Israeli security forces,0.0
+gunfire,50,live ammunition,Israeli security forces,0.0
+gunfire,51,missile,Israeli security forces,5.0
+gunfire,52,live ammunition,Israeli security forces,0.0
+gunfire,53,live ammunition,Israeli security forces,0.0
+gunfire,54,missile,Israeli security forces,5.0
+gunfire,55,missile,Israeli security forces,5.0
+gunfire,56,live ammunition,Israeli security forces,0.0
+gunfire,57,live ammunition,Israeli security forces,0.0
+gunfire,58,live ammunition,Israeli security forces,0.0
+gunfire,59,live ammunition,Israeli security forces,0.0
+gunfire,60,live ammunition,Israeli security forces,0.0
+gunfire,61,live ammunition,Israeli security forces,0.0
+gunfire,62,live ammunition,Israeli security forces,0.0
+gunfire,63,missile,Israeli security forces,5.0
+gunfire,64,missile,Israeli security forces,5.0
+gunfire,65,live ammunition,Israeli security forces,0.0
+gunfire,66,missile,Israeli security forces,5.0
+gunfire,67,live ammunition,Palestinian civilians,16.0
+gunfire,68,live ammunition,Israeli security forces,0.0
+gunfire,69,live ammunition,Israeli civilians,28.0
+gunfire,70,live ammunition,Palestinian civilians,16.0
+gunfire,71,live ammunition,Palestinian civilians,16.0
+gunfire,72,live ammunition,Palestinian civilians,16.0
+gunfire,73,live ammunition,Israeli security forces,0.0
+gunfire,74,live ammunition,Israeli security forces,0.0
+gunfire,75,live ammunition,Israeli security forces,0.0
+gunfire,76,live ammunition,Israeli security forces,0.0
+gunfire,77,live ammunition,Israeli security forces,0.0
+gunfire,78,live ammunition,Israeli security forces,0.0
+gunfire,79,live ammunition,Israeli security forces,0.0
+gunfire,80,live ammunition,Israeli security forces,0.0
+gunfire,81,live ammunition,Israeli security forces,0.0
+gunfire,82,live ammunition,Israeli security forces,0.0
+gunfire,83,live ammunition,Israeli security forces,0.0
+gunfire,84,live ammunition,Israeli security forces,0.0
+gunfire,85,live ammunition,Palestinian civilians,16.0
+gunfire,86,live ammunition,Israeli security forces,0.0
+gunfire,87,live ammunition,Israeli civilians,28.0
+gunfire,88,live ammunition,Israeli security forces,0.0
+gunfire,89,live ammunition,Israeli security forces,0.0
+gunfire,90,live ammunition,Israeli security forces,0.0
+gunfire,91,live ammunition,Israeli security forces,0.0
+gunfire,92,live ammunition,Israeli security forces,0.0
+gunfire,93,live ammunition,Israeli security forces,0.0
+gunfire,94,live ammunition,Israeli security forces,0.0
+gunfire,95,missile,Israeli security forces,5.0
+gunfire,96,missile,Israeli security forces,5.0
+gunfire,97,missile,Israeli security forces,5.0
+gunfire,98,live ammunition,Israeli security forces,0.0
+gunfire,99,missile,Israeli security forces,5.0
+gunfire,100,rocket,Palestinian civilians,99.0
+gunfire,101,missile,Israeli security forces,5.0
+gunfire,102,missile,Israeli security forces,5.0
+gunfire,103,missile,Israeli security forces,5.0
+gunfire,104,missile,Israeli security forces,5.0
+gunfire,105,missile,Israeli security forces,5.0
+gunfire,106,missile,Israeli security forces,5.0
+gunfire,107,missile,Israeli security forces,5.0
+gunfire,108,live ammunition,Israeli security forces,0.0
+gunfire,109,missile,Israeli security forces,5.0
+gunfire,110,missile,Israeli security forces,5.0
+gunfire,111,missile,Israeli security forces,5.0
+gunfire,112,missile,Israeli security forces,5.0
+gunfire,113,live ammunition,Israeli security forces,0.0
+gunfire,114,live ammunition,Israeli security forces,0.0
+gunfire,115,missile,Israeli security forces,5.0
+gunfire,116,missile,Israeli security forces,5.0
+gunfire,117,missile,Israeli security forces,5.0
+gunfire,118,missile,Israeli security forces,5.0
+gunfire,119,missile,Israeli security forces,5.0
+gunfire,120,missile,Israeli security forces,5.0
+gunfire,121,missile,Israeli security forces,5.0
+gunfire,122,missile,Israeli security forces,5.0
+gunfire,123,missile,Israeli security forces,5.0
+gunfire,124,missile,Israeli security forces,5.0
+gunfire,125,missile,Israeli security forces,5.0
+gunfire,126,missile,Israeli security forces,5.0
+gunfire,127,missile,Israeli security forces,5.0
+gunfire,128,missile,Israeli security forces,5.0
+gunfire,129,missile,Israeli security forces,5.0
+gunfire,130,live ammunition,Israeli security forces,0.0
+gunfire,131,live ammunition,Israeli security forces,0.0
+gunfire,132,live ammunition,Israeli security forces,0.0
+gunfire,133,live ammunition,Israeli security forces,0.0
+gunfire,134,live ammunition,Israeli security forces,0.0
+gunfire,135,live ammunition,Israeli security forces,0.0
+gunfire,136,missile,Israeli security forces,5.0
+gunfire,137,live ammunition,Israeli security forces,0.0
+gunfire,138,live ammunition,Israeli security forces,0.0
+gunfire,139,live ammunition,Israeli security forces,0.0
+gunfire,140,live ammunition,Israeli security forces,0.0
+gunfire,141,live ammunition,Israeli security forces,0.0
+gunfire,142,live ammunition,Israeli security forces,0.0
+gunfire,143,live ammunition,Israeli security forces,0.0
+gunfire,144,live ammunition,Israeli security forces,0.0
+gunfire,145,live ammunition,Palestinian civilians,16.0
+gunfire,146,live ammunition,Palestinian civilians,16.0
+gunfire,147,live ammunition,Palestinian civilians,16.0
+gunfire,148,live ammunition,Israeli security forces,0.0
+gunfire,149,live ammunition,Israeli security forces,0.0
+gunfire,150,live ammunition,Israeli security forces,0.0
+gunfire,151,,Israeli security forces,
+gunfire,152,live ammunition,Israeli security forces,0.0
+gunfire,153,live ammunition,Israeli security forces,0.0
+gunfire,154,live ammunition,Israeli security forces,0.0
+gunfire,155,live ammunition,Israeli security forces,0.0
+gunfire,156,live ammunition,Israeli security forces,0.0
+gunfire,157,live ammunition,Israeli security forces,0.0
+gunfire,158,live ammunition,Israeli security forces,0.0
+gunfire,159,live ammunition,Israeli security forces,0.0
+gunfire,160,live ammunition,Israeli civilians,28.0
+gunfire,161,live ammunition,Israeli security forces,0.0
+gunfire,162,live ammunition,Palestinian civilians,16.0
+gunfire,163,live ammunition,Israeli security forces,0.0
+gunfire,164,live ammunition,Israeli security forces,0.0
+gunfire,165,live ammunition,Israeli security forces,0.0
+gunfire,166,live ammunition,Israeli security forces,0.0
+gunfire,167,live ammunition,Israeli security forces,0.0
+gunfire,168,live ammunition,Israeli security forces,0.0
+gunfire,169,live ammunition,Israeli security forces,0.0
+gunfire,170,live ammunition,Israeli security forces,0.0
+gunfire,171,live ammunition,Israeli security forces,0.0
+gunfire,172,live ammunition,Israeli security forces,0.0
+gunfire,173,live ammunition,Israeli security forces,0.0
+gunfire,174,live ammunition,Israeli security forces,0.0
+gunfire,175,live ammunition,Israeli security forces,0.0
+gunfire,176,live ammunition,Palestinian civilians,16.0
+gunfire,177,live ammunition,Palestinian civilians,16.0
+gunfire,178,live ammunition,Palestinian civilians,16.0
+gunfire,179,live ammunition,Israeli security forces,0.0
+gunfire,180,live ammunition,Israeli security forces,0.0
+gunfire,181,,Israeli security forces,
+gunfire,182,live ammunition,Israeli security forces,0.0
+gunfire,183,,Israeli security forces,
+gunfire,184,live ammunition,Israeli security forces,0.0
+gunfire,185,live ammunition,Israeli security forces,0.0
+gunfire,186,live ammunition,Israeli security forces,0.0
+gunfire,187,live ammunition,Israeli security forces,0.0
+gunfire,188,live ammunition,Israeli security forces,0.0
+gunfire,189,live ammunition,Israeli security forces,0.0
+gunfire,190,,Israeli security forces,
+gunfire,191,live ammunition,Israeli security forces,0.0
+gunfire,192,live ammunition,Israeli security forces,0.0
+gunfire,193,live ammunition,Israeli security forces,0.0
+gunfire,194,live ammunition,Israeli security forces,0.0
+gunfire,195,live ammunition,Israeli civilians,28.0
+hit by a vehicle,196,,Palestinian civilians,
+hit by a vehicle,197,,Palestinian civilians,
+hit by a vehicle,198,,Palestinian civilians,
+gunfire,199,live ammunition,Israeli security forces,0.0
+gunfire,200,live ammunition,Israeli security forces,0.0
+gunfire,201,live ammunition,Israeli security forces,0.0
+gunfire,202,live ammunition,Israeli security forces,0.0
+gunfire,203,0.22-caliber bullets,Israeli security forces,202.0
+gunfire,204,live ammunition,Israeli security forces,0.0
+gunfire,205,live ammunition,Israeli security forces,0.0
+gunfire,206,live ammunition,Israeli security forces,0.0
+gunfire,207,live ammunition,Israeli security forces,0.0
+gunfire,208,live ammunition,Israeli security forces,0.0
+gunfire,209,live ammunition,Israeli security forces,0.0
+gunfire,210,live ammunition,Israeli civilians,28.0
+gunfire,211,live ammunition,Israeli security forces,0.0
+gunfire,212,live ammunition,Palestinian civilians,16.0
+gunfire,213,live ammunition,Palestinian civilians,16.0
+gunfire,214,live ammunition,Palestinian civilians,16.0
+gunfire,215,live ammunition,Palestinian civilians,16.0
+gunfire,216,live ammunition,Palestinian civilians,16.0
+gunfire,217,live ammunition,Palestinian civilians,16.0
+gunfire,218,,Israeli security forces,
+gunfire,219,live ammunition,Israeli security forces,0.0
+gunfire,220,live ammunition,Israeli security forces,0.0
+gunfire,221,,Israeli security forces,
+gunfire,222,live ammunition,Israeli security forces,0.0
+gunfire,223,live ammunition,Israeli security forces,0.0
+gunfire,224,live ammunition,Israeli security forces,0.0
+gunfire,225,live ammunition,Israeli security forces,0.0
+gunfire,226,live ammunition,Israeli security forces,0.0
+gunfire,227,live ammunition,Israeli security forces,0.0
+gunfire,228,live ammunition,Israeli security forces,0.0
+gunfire,229,live ammunition,Israeli security forces,0.0
+gunfire,230,live ammunition,Israeli security forces,0.0
+gunfire,231,live ammunition,Israeli security forces,0.0
+gunfire,232,live ammunition,Israeli security forces,0.0
+gunfire,233,live ammunition,Israeli civilians,28.0
+gunfire,234,live ammunition,Israeli security forces,0.0
+gunfire,235,live ammunition,Israeli security forces,0.0
+gunfire,236,live ammunition,Israeli security forces,0.0
+gunfire,237,live ammunition,Israeli security forces,0.0
+gunfire,238,live ammunition,Israeli security forces,0.0
+gunfire,239,live ammunition,Israeli security forces,0.0
+gunfire,240,live ammunition,Israeli security forces,0.0
+gunfire,241,live ammunition,Israeli security forces,0.0
+gunfire,242,live ammunition,Israeli civilians,28.0
+gunfire,243,live ammunition,Israeli security forces,0.0
+gunfire,244,live ammunition,Israeli security forces,0.0
+gunfire,245,live ammunition,Israeli security forces,0.0
+gunfire,246,live ammunition,Israeli security forces,0.0
+gunfire,247,live ammunition,Israeli security forces,0.0
+gunfire,248,live ammunition,Israeli security forces,0.0
+gunfire,249,live ammunition,Israeli security forces,0.0
+gunfire,250,live ammunition,Israeli security forces,0.0
+gunfire,251,live ammunition,Israeli security forces,0.0
+gunfire,252,live ammunition,Israeli security forces,0.0
+gunfire,253,live ammunition,Israeli security forces,0.0
+gunfire,254,live ammunition,Israeli security forces,0.0
+gunfire,255,live ammunition,Israeli security forces,0.0
+gunfire,256,live ammunition,Israeli security forces,0.0
+gunfire,257,live ammunition,Israeli security forces,0.0
+gunfire,258,live ammunition,Israeli security forces,0.0
+gunfire,259,live ammunition,Israeli security forces,0.0
+gunfire,260,live ammunition,Israeli security forces,0.0
+gunfire,261,live ammunition,Israeli security forces,0.0
+gunfire,262,live ammunition,Israeli security forces,0.0
+gunfire,263,live ammunition,Israeli security forces,0.0
+gunfire,264,live ammunition,Israeli security forces,0.0
+gunfire,265,live ammunition,Israeli security forces,0.0
+gunfire,266,live ammunition,Israeli security forces,0.0
+explosion,267,bomb,Palestinian civilians,266.0
+explosion,268,bomb,Palestinian civilians,266.0
+gunfire,269,live ammunition,Israeli security forces,0.0
+gunfire,270,live ammunition,Israeli security forces,0.0
+gunfire,271,live ammunition,Israeli security forces,0.0
+stabbing,272,knife,Palestinian civilians,271.0
+gunfire,273,live ammunition,Israeli security forces,0.0
+hit by a vehicle,274,,Palestinian civilians,
+stabbing,275,knife,Palestinian civilians,271.0
+gunfire,276,live ammunition,Israeli security forces,0.0
+gunfire,277,live ammunition,Israeli security forces,0.0
+gunfire,278,live ammunition,Israeli security forces,0.0
+gunfire,279,live ammunition,Israeli security forces,0.0
+gunfire,280,live ammunition,Israeli security forces,0.0
+gunfire,281,live ammunition,Israeli security forces,0.0
+gunfire,282,live ammunition,Israeli security forces,0.0
+gunfire,283,live ammunition,Israeli security forces,0.0
+gunfire,284,live ammunition,Israeli security forces,0.0
+gunfire,285,live ammunition,Palestinian civilians,16.0
+gunfire,286,live ammunition,Israeli security forces,0.0
+gunfire,287,live ammunition,Israeli security forces,0.0
+gunfire,288,live ammunition,Israeli security forces,0.0
+gunfire,289,live ammunition,Israeli security forces,0.0
+gunfire,290,live ammunition,Israeli security forces,0.0
+gunfire,291,live ammunition,Israeli security forces,0.0
+gunfire,292,live ammunition,Israeli security forces,0.0
+stabbing,293,knife,Palestinian civilians,271.0
+explosion,294,bomb,Israeli security forces,293.0
+gunfire,295,live ammunition,Israeli security forces,0.0
+gunfire,296,live ammunition,Israeli security forces,0.0
+gunfire,297,live ammunition,Israeli civilians,28.0
+gunfire,298,live ammunition,Israeli security forces,0.0
+gunfire,299,live ammunition,Israeli security forces,0.0
+gunfire,300,live ammunition,Israeli security forces,0.0
+gunfire,301,live ammunition,Israeli security forces,0.0
+gunfire,302,live ammunition,Israeli security forces,0.0
+gunfire,303,live ammunition,Israeli security forces,0.0
+gunfire,304,live ammunition,Israeli security forces,0.0
+gunfire,305,live ammunition,Israeli security forces,0.0
+gunfire,306,live ammunition,Israeli security forces,0.0
+gunfire,307,live ammunition,Israeli security forces,0.0
+gunfire,308,live ammunition,Israeli security forces,0.0
+gunfire,309,live ammunition,Israeli security forces,0.0
+gunfire,310,live ammunition,Israeli security forces,0.0
+gunfire,311,live ammunition,Israeli security forces,0.0
+gunfire,312,live ammunition,Israeli security forces,0.0
+gunfire,313,live ammunition,Israeli security forces,0.0
+gunfire,314,live ammunition,Israeli security forces,0.0
+gunfire,315,live ammunition,Israeli security forces,0.0
+gunfire,316,live ammunition,Israeli security forces,0.0
+gunfire,317,,Israeli security forces,
+gunfire,318,live ammunition,Israeli security forces,0.0
+gunfire,319,live ammunition,Israeli security forces,0.0
+physical assault,320,,Palestinian civilians,
+gunfire,321,live ammunition,Israeli security forces,0.0
+gunfire,322,live ammunition,Israeli security forces,0.0
+gunfire,323,live ammunition,Israeli security forces,0.0
+gunfire,324,live ammunition,Israeli security forces,0.0
+gunfire,325,live ammunition,Israeli security forces,0.0
+gunfire,326,live ammunition,Israeli security forces,0.0
+gunfire,327,live ammunition,Israeli security forces,0.0
+gunfire,328,live ammunition,Israeli security forces,0.0
+gunfire,329,live ammunition,Israeli security forces,0.0
+gunfire,330,,Israeli security forces,
+gunfire,331,live ammunition,Israeli security forces,0.0
+gunfire,332,live ammunition,Israeli security forces,0.0
+gunfire,333,live ammunition,Israeli security forces,0.0
+gunfire,334,,Israeli security forces,
+gunfire,335,live ammunition,Israeli security forces,0.0
+gunfire,336,,Israeli security forces,
+gunfire,337,live ammunition,Israeli security forces,0.0
+gunfire,338,live ammunition,Israeli security forces,0.0
+gunfire,339,missile,Israeli security forces,5.0
+gunfire,340,missile,Israeli security forces,5.0
+gunfire,341,missile,Israeli security forces,5.0
+gunfire,342,missile,Israeli security forces,5.0
+gunfire,343,missile,Israeli security forces,5.0
+gunfire,344,missile,Israeli security forces,5.0
+gunfire,345,missile,Israeli security forces,5.0
+gunfire,346,missile,Israeli security forces,5.0
+gunfire,347,missile,Israeli security forces,5.0
+gunfire,348,missile,Israeli security forces,5.0
+shelling,349,bomb,Israeli security forces,348.0
+shelling,350,bomb,Israeli security forces,348.0
+shelling,351,bomb,Israeli security forces,348.0
+shelling,352,bomb,Israeli security forces,348.0
+shelling,353,bomb,Israeli security forces,348.0
+shelling,354,bomb,Israeli security forces,348.0
+shelling,355,bomb,Israeli security forces,348.0
+gunfire,356,missile,Israeli security forces,5.0
+gunfire,357,missile,Israeli security forces,5.0
+gunfire,358,missile,Israeli security forces,5.0
+gunfire,359,,Israeli security forces,
+gunfire,360,missile,Israeli security forces,5.0
+gunfire,361,shell,Israeli security forces,360.0
+gunfire,362,missile,Israeli security forces,5.0
+gunfire,363,missile,Israeli security forces,5.0
+gunfire,364,missile,Israeli security forces,5.0
+gunfire,365,missile,Israeli security forces,5.0
+gunfire,366,missile,Israeli security forces,5.0
+gunfire,367,shell,Israeli security forces,360.0
+gunfire,368,shell,Israeli security forces,360.0
+shelling,369,bomb,Israeli security forces,348.0
+shelling,370,bomb,Israeli security forces,348.0
+gunfire,371,missile,Israeli security forces,5.0
+gunfire,372,live ammunition,Israeli security forces,0.0
+gunfire,373,live ammunition,Israeli security forces,0.0
+gunfire,374,live ammunition,Israeli security forces,0.0
+gunfire,375,live ammunition,Israeli security forces,0.0
+gunfire,376,live ammunition,Israeli security forces,0.0
+gunfire,377,live ammunition,Israeli security forces,0.0
+gunfire,378,live ammunition,Israeli security forces,0.0
+gunfire,379,live ammunition,Israeli security forces,0.0
+gunfire,380,live ammunition,Israeli security forces,0.0
+stabbing,381,knife,Israeli civilians,380.0
+gunfire,382,live ammunition,Israeli security forces,0.0
+gunfire,383,live ammunition,Israeli security forces,0.0
+gunfire,384,live ammunition,Israeli security forces,0.0
+gunfire,385,live ammunition,Israeli security forces,0.0
+gunfire,386,live ammunition,Israeli security forces,0.0
+gunfire,387,live ammunition,Israeli security forces,0.0
+gunfire,388,live ammunition,Israeli security forces,0.0
+gunfire,389,live ammunition,Israeli security forces,0.0
+gunfire,390,live ammunition,Israeli security forces,0.0
+gunfire,391,live ammunition,Israeli security forces,0.0
+gunfire,392,live ammunition,Israeli security forces,0.0
+gunfire,393,live ammunition,Israeli security forces,0.0
+gunfire,394,live ammunition,Israeli security forces,0.0
+gunfire,395,live ammunition,Israeli security forces,0.0
+gunfire,396,live ammunition,Israeli security forces,0.0
+gunfire,397,live ammunition,Israeli security forces,0.0
+gunfire,398,live ammunition,Israeli security forces,0.0
+gunfire,399,live ammunition,Israeli civilians,28.0
+being bludgeoned with an axe,400,,Palestinian civilians,

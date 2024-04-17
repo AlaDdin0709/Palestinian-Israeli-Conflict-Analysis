@@ -1,0 +1,401 @@
+name,id,age,gender
+'Abd a-Rahman Suleiman Muhammad Abu Daghash,1,32.0,M
+Usayed Farhan Muhammad 'Ali Abu 'Ali,2,21.0,M
+'Abdallah 'Imad Sa'ed Abu Hassan,3,16.0,M
+Durgham Muhammad Yihya al-Akhras,4,19.0,M
+Raafat 'Omar Ahmad Khamaisah,5,15.0,M
+'Ata Yasser 'Ata Musa,6,29.0,M
+Yusef Salem Yusef Radwan,7,24.0,M
+Mahmoud Khaled S'ud 'Ar'arawi,8,25.0,M
+Mahmoud 'Ali Nafe'a a-S'adi,9,23.0,M
+Milad Munzer Wajih a-Ra'i,10,15.0,M
+Muhammad Yusef Isma'il Zbeidat,11,16.0,M
+'Ayed Samih Khaled Abu Harb,12,21.0,M
+'Abd a-Rahim Fayez 'Awad Ghanam,13,45.0,M
+Dawood 'Abd a-Razeq Fayez Fayez,14,41.0,M
+Khaled Samer Fadel a-Z'anin,15,14.0,M
+'Othman 'Atef Muhammad Abu Kharj,16,17.0,M
+Batsheva Nagari,17,40.0,F
+Aviad Nir,18,28.0,M
+Shai Silas Nigerker,19,60.0,M
+Mustafa Akram Mustafa Qumbu',20,32.0,M
+Muhammad Naser Salem Dawood,21,19.0,M
+Qusai 'Omar Muhammad Suliman,22,16.0,M
+Muhammad Ribhe Mahmoud Njum,23,25.0,M
+Mahmoud Jihad 'Abd a-Razeq Jarad,24,24.0,M
+Amir Ahmad Muhammad Khalifah,25,24.0,M
+Khalil Nizar Nimer Abu Na'asah,26,21.0,M
+Nayef Jihad Nayef Abu Sweis,27,26.0,M
+Baraa Ahmad Fayez al-Qaram,28,16.0,M
+Kamel Mahmoud Kamel Abu Baker,29,22.0,M
+Chen Amir,30,42.0,M
+Qusai Jamal Muhammad Mu'tan,31,18.0,M
+Mahmoud Husam Hassan Abu Sa'an,32,17.0,M
+Ramzi Fathi 'Abd a-Rahman Hamed,33,17.0,M
+Muhannad Muhammad Suleiman Mazar'ah,34,20.0,M
+Muhammad Farid Shawqi Ibrahim Za'arir,35,15.0,M
+Muhammad 'Abd al-Hakim Na'im Nada,36,23.0,M
+Nur a-Din Taysir Khalil 'Ardah,37,32.0,M
+Muntasser Bahajat Muhammad 'Ali Salamah,38,32.0,M
+Sa'ed Maher Taher Kharaz,39,42.0,M
+Fawzi Hani Fawzi Makhalfeh,40,18.0,M
+Muhammad Fouad 'Ata Bayed,41,16.0,M
+Bader Sami Ribhi Masri,42,18.0,M
+Bilal Ibrahim Hussni Qadah,43,33.0,M
+Hamzah Muayad Muhammad Maqbul,44,32.0,M
+Khayri Muhammad Sari Jamal Shahin,45,34.0,M
+'Abd al-Jawad Hamdan 'Abd al-Jawad Dar Saleh,46,24.0,M
+'Abd al-Wahab 'Issa Hussein Khalaylah,47,20.0,M
+Jawad Mujahed Mahmoud Nu'irat,48,20.0,M
+'Abd a-Rahman Hassan Ahmad Hardan,49,16.0,M
+Ahmad Muhammad Ahmad 'Amer,50,21.0,M
+Aws Hani Hassan Hanun,51,19.0,M
+'Ali Hani 'Ali al-Ghul,52,18.0,M
+Muhammad 'Imad Sa'ed Hasanein,53,21.0,M
+Samih Firas Samih Abu al-Wafa,54,19.0,M
+Husam Muhammad Ahmad Abu Dib,55,19.0,M
+Muhammad Muhannad Yusef Shami,56,26.0,M
+Majdi Yunes So'ud 'Ar'arawi,57,17.0,M
+Nur a-Din Husam Yusef Marshud,58,15.0,M
+Mustafa 'Imad 'Ali Qassem,59,16.0,M
+'Iz a-Din Mahmoud Khalil Abu 'On,60,19.0,M
+Ishaq Hamdi Amin 'Ajlouni,61,16.0,M
+Tareq Musa Khalil Idris,62,39.0,M
+Suhaib 'Adnan Jum'ah Musa (al-Ghul),63,28.0,M
+Muhammad Bashar Rateb 'Aweis,64,27.0,M
+'Omar Hisham 'Abdallah Jbarah,65,24.0,M
+Ashraf Murad Mahmoud a-S'adi,66,15.0,M
+Nachman Shmuel Mordoff,67,17.0,M
+Khaled Mustafa 'Abd a-Latif Sabah,68,24.0,M
+Muhannad Falah 'Abdallah Shihadah,69,25.0,M
+Harel Ma'sud,70,21.0,M
+Elisha Antman,71,18.0,M
+Ofer Fairman,72,64.0,M
+Ahmad Khaled Fayez Daraghmeh,73,18.0,M
+Sadil Ghassan Ibrahim Naghnaghiyah,74,14.0,F
+Zakaria Muhammad Zakaria Za'ul,75,19.0,M
+Amjad 'Aref Fayad Abu J'aus,76,48.0,M
+Khaled 'Azzam Khaled Darwish,77,21.0,M
+Qays Majdi 'Adel Jabarin,78,19.0,M
+Ahmad Yusef Ahmad Saqer,79,14.0,M
+Qassam Feisal Mustafa Abu Siriyah,80,31.0,M
+Khalil Yihya Anis Yihya,81,19.0,M
+Fares 'Abd al-Mun'im Muhammad Hashash,82,19.0,M
+Mahdi Samir Muhammad Bayadsah,83,29.0,M
+Muhammad Haitham Ibrahim Tamimi,84,2.0,M
+Meir Tamari,85,32.0,M
+Ashraf Muhammad Amin Ibrahim,86,38.0,M
+'Alaa Khalil 'Ali Qeisiyah,87,25.0,M
+'Abdallah Yusef Muhammad Abu Hamdan,88,24.0,M
+Fathi Jihad 'Abd a-Salam Rizeq,89,30.0,M
+Muhammad Bilal Muhammad Zaytun,90,30.0,M
+Saleh Muhammad Saleh Sabrah,91,22.0,M
+Wasim 'Adnan Yusef al-A'araj,92,19.0,M
+Ahmad Muhammad Taysir 'Atatri,93,32.0,M
+Saed Shaker Jihad Masheh,94,32.0,M
+Iyad al-'Abed al-Hasani,95,51.0,M
+Muhammad Walid Muhammad 'Abd al-'Aal,96,33.0,M
+'Ali Hassan Muhammad Ghali,97,49.0,M
+Ghazi Yusef Mustafa Shihab,98,66.0,M
+Mahmoud Walid Mahmoud 'Abd al-Jawad,99,25.0,M
+Inga Avramyan,100,82.0,F
+Ahmad Mahmoud Hamdan Abu Daqah,101,43.0,M
+'Udai Riyad Ahmad a-Loh,102,43.0,M
+'Alian 'Ata 'Alian Abu Wadi,103,36.0,M
+'Abd al-Halim Jawdat Kheir a-Najar,104,21.0,M
+Muhammad Suliman Khalil Dader,105,31.0,M
+Hussein Yusef 'Abdallah Dalul,106,23.0,M
+Mahmoud Hassan Muhammad Ghali,107,33.0,M
+Rani Walid Ahmad Qatanat,108,24.0,M
+Muhammad Yusef Hussni Abu Ta'imah,109,25.0,M
+'Alaa Maher Yasin Abu Ta'imah,110,28.0,M
+'Alam a-Din Samir Tawfiq 'Abd al-'Aziz,111,23.0,M
+Ayman Karam Hussein Seidam,112,26.0,M
+Ahmad Jamal Tawfiq 'Assaf,113,18.0,M
+Aws Jamal Amin Hamamdeh,114,30.0,M
+Iman 'Alaa 'Ata 'Adas,115,17.0,F
+'Ali Tareq Ibrahim 'Iz a-Din,116,8.0,M
+Wael Muhammad Sabri al-Agha,117,33.0,M
+Saed Jawad 'Abed Farwaneh,118,27.0,M
+Tareq Ibrahim Muhammad 'Iz a-Din,119,48.0,M
+Jamal Saber Muhammad Khaswan,120,52.0,M
+Yusef Jamal Saber Khaswan,121,19.0,M
+Mirvat Saleh Muhammad Khaswan,122,44.0,F
+Mayar Tareq Muhammad 'Iz a-Din,123,10.0,F
+Jihad Shaker Diab 'Abd al-Hafez Ghanam,124,61.0,M
+Hajar Khalil Salah al-Bahtini,125,4.0,F
+Wafaa Nimer Tawfiq Ghanam,126,61.0,F
+Daniyah 'Alaa 'Ata 'Adas,127,19.0,F
+Khalil Salah Khaled al-Bahtini,128,44.0,M
+Layla Majdi Mustafa al-Bahtini,129,43.0,F
+Samer Salah 'Abed Shaf'i,130,20.0,M
+Hamzah Jamil Mahmoud Khreiwish,131,23.0,M
+Iman Ziad Ahmad 'Odeh,132,26.0,F
+Hassan Suliman Hassan Qatnani,133,35.0,M
+Mu'az Sa'ed Nabih Masri,134,35.0,M
+Ibrahim Ahmad Muhammad Jibrin,135,45.0,M
+Hashel Mubarak Salman Mubarak,136,58.0,M
+Jebril Muhammad Sa'id Kamal,137,17.0,M
+Mustafa 'Amer 'Ali Sabah,138,15.0,M
+Ahmad Ya'qub Muhammad Taha,139,39.0,M
+Suliman 'Ayesh 'Ayesh 'Aweid,140,21.0,M
+So'ud 'Abdallah Sa'id a-Titi,141,38.0,M
+Muhammad Ghazi Muhammad Abu Dra',142,35.0,M
+Muhammad Fayez Muhammad 'Awadat,143,17.0,M
+'Aead 'Azzam Mahmoud Salim,144,19.0,M
+Rina Dee,145,16.0,F
+Lucy (Leah) Dee,146,48.0,F
+Maya Dee,147,20.0,F
+Muhammad Naser Muhammad Sa'id,148,20.0,M
+Muhammad Mustafa 'Ali Abu Baker,149,42.0,M
+Muhammad Raed Nayef Barad'iyah,150,23.0,M
+Amir 'Imad Amin Khadijah,151,24.0,M
+Yazan 'Omar Jamil Khasib,152,22.0,M
+Yusef Saleh Yusef Abu Shrein,153,29.0,M
+Nidal Amin Zidan Khazem,154,28.0,M
+Luai Khalil Ragheb a-Sghayer,155,35.0,M
+'Omar Muhammad 'Omar 'Awadin,156,14.0,M
+Jihad Muhammad Wasfi Shami,157,24.0,M
+'Udai 'Othman Rafiq Shami,158,22.0,M
+Muhammad Raed Naji Dabbik,159,18.0,M
+'Abd al-Karim Badi'a 'Abd al-Karim Sheikh,160,21.0,M
+Amir Maamun Rashid 'Odeh,161,14.0,M
+Or Eshkar,162,32.0,M
+Sufyan 'Adnan Isma'il Fakhuri,163,29.0,M
+al-Mu'taz bi-Allah Salah Muhammad Khawaja,164,23.0,M
+Ahmad Muhammad Ahmad Fashafshah,165,22.0,M
+Nayef Ahmad Yusef Malayshah,166,25.0,M
+al-Mu'tasem bi-Allah Naser Mahmoud Sabbag,167,21.0,M
+Walid Sa'ed Dawood Nassar,168,15.0,M
+Muhammad Wael Ahmad Ghazawi,169,26.0,M
+Tareq Ziad Mustafa Muhammad Natur,170,27.0,M
+'Abd al-Fatah Hassan Ibrahim Khrushah,171,49.0,M
+Muhammad Ahmad Kheir Hussein Khluof,172,31.0,M
+Ziad Amin Hassan Ibrahim,173,29.0,M
+Muhammad Nidal Ibrahim Salim,174,17.0,M
+Mahmoud Jamal Hassan Hamdan,175,21.0,M
+Ilan Ganeles,176,26.0,M
+Yagel Yaniv,177,20.0,M
+Hillel Yaniv,178,22.0,M
+Muhammad Isma'il Muhammad Jawabreh,179,20.0,M
+'Omayr Muhammad Ghaleb Lolah,180,28.0,M
+Muhammad 'Omar Abd al-Ghani 'Abd al-Fatah,181,23.0,M
+Muhammad Khaled Hamdi 'Anabusi,182,24.0,M
+Husam Bassam Bashir Islim,183,23.0,M
+Mus'ab Munir Muhammad 'Awis,184,25.0,M
+Tamer Nimer Ahmad Minawi,185,32.0,M
+Jasser Jamil 'Abd al-Wahab Qan'ir,186,22.0,M
+Muhammad Farid Muhammad al-Haj Muhammad,187,16.0,M
+'Abd al-'Aziz Muhammad 'Abd al-'Aziz al-Ashqar,188,64.0,M
+'Adnan Sabe' Hussein Ba'arah,189,71.0,M
+Walid Riyad Hussein a-Dakhil,190,23.0,M
+Mahmoud Majed Muhammad 'Ayed,191,17.0,M
+Amir Ihab 'Omar al-Bistami,192,21.0,M
+Muhammad Nabil Fawzi Abu Sabah,193,29.0,M
+Qusai Radwan Yusef Waked,194,16.0,M
+Mithqal Suliman 'Abd al-Halim Rayan,195,27.0,M
+Ya'aKov Paley,196,6.0,M
+Asher פלאי,197,8.0,M
+Alter לדרמן,198,20.0,M
+Hussein Khaled Hussein Qaraqe',199,31.0,M
+Sharif Hassan Muhammad Wreidat,200,19.0,M
+Muntasser Muhammad Dhib a-Shawa,201,16.0,M
+Hamzah Amjad Yusef Ashqar,202,16.0,M
+Malek 'Awni Jamil Lafy,203,22.0,M
+Raafat Wael 'Abd al-Hafez 'Awadat,204,21.0,M
+Ibrahim Wael 'Abd al-Hafez 'Awadat,205,27.0,M
+'Alaa 'Awedat,206,,M
+Adham Majdi Fawzi Maqiti,207,22.0,M
+'Abdallah Samih Ahmad Qalalwah,208,25.0,M
+Nassim Nayef Salman Fuda,209,26.0,M
+Karam 'Ali Ahmad Salman,210,18.0,M
+Khayri Musa Khayri Alkam,211,21.0,M
+Shaul Hai,212,68.0,M
+Natali Mizrahi,213,45.0,F
+Eli Mizrahi,214,48.0,M
+Asher Natan,215,14.0,M
+Rafael Ben Eliahu,216,56.0,M
+Ilya Sosansky,217,24.0,M
+Muhammad Sami Muhammad Ghneim,218,34.0,M
+Mu'tasem Mahmoud Ahmad Abu Hassan,219,36.0,M
+'Omar Tareq 'Ali a-S'adi,220,24.0,M
+Nur Sami Muhammad Ghneim,221,22.0,M
+Wasim Amjad 'Aref Abu J'aus,222,16.0,M
+Majedah 'Abd al-Fatah Mahmoud 'Obeid,223,60.0,F
+Muhammad Mahmoud Muhammad Subuh,224,34.0,M
+Yusef Yihya 'Abd al-Karim Muheisen,225,22.0,M
+Saaeb 'Issam Mahmoud Zreiqi,226,25.0,M
+'Iz a-Din Yasin Jum'ah Salahat,227,21.0,M
+'Abdallah Marwan Jum'ah Musa,228,17.0,M
+Muhammad 'Abed Musa Muhammad 'Ali,229,18.0,M
+Wadi' 'Abd al-'Aziz Mar'i Abu Ramuz,230,17.0,M
+'Aref 'Abd a-Naser 'Aref Lahlouh,231,20.0,M
+'Amru Khaled Lutfi al-Khmur,232,14.0,M
+Tareq 'Odeh Yusef M'aali,233,42.0,M
+Adham Muhammad Bassem Jabarin,234,26.0,M
+Jawad Farid Hussein Bawaqnah,235,57.0,M
+Hamdi Shaker Ahmad Abu Diyah,236,40.0,M
+Ahmad Hassan 'Abd al-Jalil Kahalah,237,45.0,M
+'Iz a-Din Bassem Ghaleb Hamamreh,238,22.0,M
+Amjad 'Adnan Ahmad Khaliliya,239,20.0,M
+'Abd al-Hadi Fakhri Yusef Nazzal,240,18.0,M
+Habiballah Muhammad 'Abd a-Rahman Kmeil,241,26.0,M
+Sanad Muhammad 'Othman Samamrah,242,18.0,M
+Samir 'Awni Harbi Aslan,243,41.0,M
+Ahmad 'Amer Salim Abu Jneid,244,21.0,M
+'Amer Ghazi Mahmoud Zaytun,245,16.0,M
+Adam 'Issam Shaker 'Ayad,246,15.0,M
+Muhammad Samer Hassan Hushiyeh,247,21.0,M
+Yazan Samer 'Izzat al-Ja'bari,248,19.0,M
+Fouad Mahmoud Ahmad A'bed,249,17.0,M
+Ahmad 'Atef Mustafa Daraghmeh,250,23.0,M
+Jana Majdi 'Issam 'Assaf,251,15.0,F
+Sidqi Sadiq Fayeq Jabur (Zakarnah),252,19.0,M
+Tareq Fawzi 'Issa Salem (a-Damaj),253,26.0,M
+Diyaa Muhammad Shafiq Rahimi,254,16.0,M
+'Ata Yasin Mahmoud Shalabi,255,46.0,M
+Mujahed Mahmoud Jum'ah Hamed,256,32.0,M
+'Omar Yusef Hassan Manna',257,22.0,M
+'Ammar Hamdi Nayef Muflih,258,23.0,M
+Na'im Jamal 'Abd a-Rahman Zbeidi,259,34.0,M
+Muhammad Ayman Shafi' Qassem,260,22.0,M
+Muhammad Tawfiq Shaker Badarnah,261,27.0,M
+Rani Maamun Fayez Abu 'Ali,262,45.0,M
+Jawad 'Abd a-Rahman 'Abd al-Jawad Rimawi,263,22.0,M
+Zafer 'Abd a-Rahman 'Abd al-Jawad Rimawi,264,19.0,M
+Raed Ghazi 'Eid Na'asan,265,21.0,M
+Mufid Muhammad Mahmoud Khlayel,266,44.0,M
+Tadasa Tashume Ben Ma'ada,267,50.0,M
+Arye Shechopek,268,15.0,M
+Muhammad Hisham Muhammad Abu Kishk,269,23.0,M
+Ahmad Amjad Muhammad Shihadah,270,16.0,M
+Mahmoud 'Abd al-Jalil Huda a-S'adi,271,17.0,M
+Michael Ledigin,272,36.0,M
+Muhammad Murad Sami Suf,273,18.0,M
+Tamir Avihai,274,50.0,M
+Mordechai Ashkenazi,275,59.0,M
+Fullah Rasmi 'Abd al-'Aziz Maluh,276,14.0,F
+Raafat 'Ali 'Abdallah 'Ayasah,277,29.0,M
+Mahdi Muhammad Hamdallah Hashash,278,15.0,M
+Mus'ab Muhammad Mahmoud Nafal,279,18.0,M
+Faruq Jamil Hassan Salamah,280,28.0,M
+'Amer Husam Bader Halabiyah,281,20.0,M
+Dawood Mahmoud Khalil Rayan,282,41.0,M
+Muhammad Samer Muhammad Khalluf,283,14.0,M
+Habbas 'Abd al-Hafiz Yusef Rayan,284,54.0,M
+Ronen Hananya,285,49.0,M
+Ramzi Sami Sa'id Zabarah,286,34.0,M
+'Imad Yusef Muhammad Abu Rashid,287,50.0,M
+Qusai Mahmoud 'Ali Tamimi,288,19.0,M
+Wadi' Sabih Wadi' al-Hawah,289,31.0,M
+Mash'al Zahi Ahmad al-Baghdadi,290,26.0,M
+Hamdi Muhammad Sabri Hamed Sharaf,291,34.0,M
+'Ali Khaled 'Omar 'Antar,292,26.0,M
+Shalom Sofer,293,63.0,M
+Tamer Sufian Fawaz Zeid Kilani,294,32.0,M
+Rabi 'Arafah 'Adnan Rabi,295,32.0,M
+Salah 'Abd a-Rahim Muhammad 'Abd a-Rahim Breiki,296,19.0,M
+'Udai Kamal Muhammad Musa Tamimi,297,22.0,M
+Qays 'Imad Khaled Shuja'iyah,298,22.0,M
+Mujahed Ahmad Muhammad Sa'id Dawood,299,30.0,M
+Matin Fayeq Hussein Dabaya,300,25.0,M
+'Abdallah Sa'ed 'Abd al-Karim al-Ahmad,301,42.0,M
+Ousamah Mahmoud Hassan 'Adawi,302,17.0,M
+Ahmad Muhammad Hussein Daraghmeh,303,18.0,M
+Mahmoud Muayad Muhammad Sus,304,17.0,M
+'Adel Ibrahim 'Adel Dawood,305,14.0,M
+Mahdi Muhammad 'Abd al-Mu'ti Ladadwah,306,17.0,M
+'Alaa Naser Ahmad Zaghal,307,21.0,M
+Salamah Raafat Muhammad Sa'id Sharay'ah,308,18.0,M
+Khaled Fadi Muhammad 'Anbar,309,20.0,M
+Fayez Khaled Mahmoud Damdum,310,17.0,M
+Muhammad Bader Mahmoud Alunah,311,30.0,M
+'Abd a-Rahman Fathi Zidan Khazem,312,27.0,M
+Ahmad Taysir Nazmi 'Alawneh,313,25.0,M
+Mahmoud Muhammad Khalil Samudi,314,12.0,M
+Muhammad Hisham Muhammad Ahmad,315,27.0,M
+Muhammad Fadi Hani Nuri,316,16.0,M
+Saed 'Adnan 'Izat Kawni,317,22.0,M
+Muhammad 'Ali Hassan 'Awad,318,36.0,M
+Muhammad Ousamah 'Ali Abu Jum'ah,319,23.0,M
+Shulamit Rachel Ovadia,320,84.0,F
+'Udai Trad Hisham Salah,321,17.0,M
+Ahmad Ayman Ibrahim A'bed,322,21.0,M
+'Abd a-Rahman Hani Subhi A'bed,323,23.0,M
+Haitham Hani Muhammad Mubarak,324,16.0,M
+Yunes Ghassan Hassan Tayeh,325,20.0,M
+Hamad Mustafa Hussein Abu Jildah,326,24.0,M
+Muhammad Musa Muhammad Saba'anah,327,28.0,M
+Taher Muhammad Taher Zakarneh,328,19.0,M
+Fadi Muhammad Fayez Ghattas,329,19.0,M
+Yazan Na'im Diab 'Afanah,330,27.0,M
+Salah Tawfiq Muhammad Suaftah,331,58.0,M
+Wasim Naser Muhammad Abu Khalifah,332,19.0,M
+Muhammad Ibrahim Kamel Shahham,333,20.0,M
+Ibrahim 'Alaa 'Izat Nabulsi,334,18.0,M
+Muamen Yasin Muhammad Judah Jaber,335,16.0,M
+Islam Muhammad Sharif As'ad Sabuh,336,32.0,M
+Hussein Jamal Hussein Taha,337,16.0,M
+Muhammad Marzuq 'Ali 'Arayshi,338,25.0,M
+Muhammad Salah Hamed Nijm,339,16.0,M
+Jamil Ihab Jamil Nijm,340,13.0,M
+Jamil Najm a-Din Jamil Nijm,341,3.0,M
+Hamed Haydar Hamed Nijm,342,16.0,M
+Nazmi Fayez 'Abd al-Hadi Abu Karsh,343,15.0,M
+Khaled Ayman Jamil Yasin,344,27.0,M
+Mahmoud Ahmad Sab' Dawood,345,21.0,M
+'Abd a-Rahman Jum'ah Khalaf a-Silk,346,19.0,M
+Shadi 'Imad Nimer Kahil,347,26.0,M
+Ibrahim Shehdeh Salah Abu Salah,348,42.0,M
+Ziad Ahmad Khalil al-Modalal,349,35.0,M
+Khaled Sa'id Shihadah Mansur,350,46.0,M
+Raafat Sameh Ibrahim a-Zamli,351,41.0,M
+Muhammad Iyad Muhammad Hasunah,352,13.0,M
+Isma'il 'Abd al-Hamid Muhammad Dweik,353,30.0,M
+Hanaa Isma'il 'Ali Dweik,354,50.0,F
+Alaa Saleh 'Abd al-Muhsen al-Mallahi,355,30.0,F
+Tamim Ghassan 'Abdallah Hijazi,356,23.0,M
+Ousamah 'Abd a-Rahman Hussein a-Suri,357,27.0,M
+Nur a-Din Hussein 'Ali a-Zwiedi,358,18.0,M
+Nayef Khaled Nayef al-'Odat,359,10.0,M
+Hassan Muhammad Hussein Mansur,360,28.0,M
+Duniana 'Adnan 'Atiyyah al-'Amur,361,22.0,F
+Alaa 'Abdallah Riyad Qadum,362,5.0,F
+Yusef Suliman Muhammad Qadum,363,23.0,M
+Fadel Mustafa Ajaryu Zo'rub,364,28.0,M
+Muhammad Hassan Musa al-Byuk,365,34.0,M
+Layan Musleh Hamdi a-Sha'er,366,10.0,F
+Ahmad Mazen Mahmoud 'Azzam,367,27.0,M
+Muhammad Ahmad 'Abd al-Fatah Nasrallah,368,25.0,M
+Taysir Mahmoud Muhammad al-Ja'bari,369,50.0,M
+Salamah Muhareb 'Abdallah A'bed,370,38.0,M
+'Imad 'Abd a-Rahim Ibrahim Shalah,371,50.0,M
+Derar Riyad Lutfi al-Haj Saleh,372,16.0,M
+Hussein Hassan Ibrahim Qawariq,373,59.0,M
+Muhammad Ahmad Hassan Hirzallah,374,30.0,M
+'Abd a-Rahman Jamal Suliman Subuh,375,28.0,M
+Muhammad Bashar Nimer 'Azizi,376,24.0,M
+Rafiq Riyad Rafiq Ghanam,377,20.0,M
+Kamel 'Abdallah Kamel 'Alawneh,378,17.0,M
+Muhammad Maher Nafe'a Mar'i,379,25.0,M
+Muhammad 'Abdallah Salah Suliman,380,16.0,M
+'Ali Hassan Yusef Harb,381,27.0,M
+Nabil Ahmad Salim Ghanem,382,53.0,M
+Layth Salah Muhammad Is'id (Abu Srur),383,26.0,M
+Baraa Kamal Ahmad Lahlouh,384,20.0,M
+Yusef Naser Hassan Salah,385,22.0,M
+Mahmoud Fayez Mahmoud Karajah,386,28.0,M
+'Odeh Muhammad 'Odeh Sadqah,387,16.0,M
+Ayman Ahmad Mahmoud Muheisen,388,29.0,M
+Bilal Rafiq Tawfiq Qabha,389,26.0,M
+Samih Jamal Muhammad 'Amarneh,390,37.0,M
+Ghufran Harun Hamed Warasnah,391,30.0,F
+Zeid Muhammad Sa'id Ghneim,392,14.0,M
+Gheith Muhammad Rafiq Ziad Yamin,393,16.0,M
+Amjad Walid Hussein Fayed,394,16.0,M
+Dawood Muhammad 'Abd a-Rahman Zbeidi,395,41.0,M
+Thaer Khalil Muhammad Mislet,396,16.0,M
+Shireen Nasri Anton Abu Akleh,397,51.0,F
+Mahmoud Sami Khalil 'Aram,398,27.0,M
+Mu'tasem Muhammad Taleb 'Atallah,399,17.0,M
+Boaz Gol,400,49.0,M

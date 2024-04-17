@@ -1,0 +1,401 @@
+place,id,district,residence_id
+Nur Shams R.C.,1,Tulkarm,0.0
+Nur Shams R.C.,2,Tulkarm,0.0
+al-Yamun,3,Jenin,2.0
+'Aqbat Jaber R.C.,4,Jericho,3.0
+Jenin,5,Jenin,4.0
+Jenin,6,Jenin,4.0
+Khan Yunis,7,Khan Yunis,6.0
+Jenin R.C.,8,Jenin,7.0
+Jenin R.C.,9,Jenin,7.0
+al-'Arrub Camp,10,Hebron,9.0
+a-Zbeidat,11,Jericho,10.0
+Nur Shams R.C.,12,Tulkarm,0.0
+Aqqaba,13,Tubas,12.0
+Deir Ammar Camp,14,Ramallah and al-Bira,13.0
+Beit Hanina,15,East Jerusalem,14.0
+a-Zababida,16,Jenin,15.0
+Beit Hagai,17,Hebron,16.0
+Ashdod,18,Israel,17.0
+Ashdod,19,Israel,17.0
+Jenin,20,Jenin,4.0
+Balata R.C.,21,Nablus,20.0
+Jericho,22,Jericho,21.0
+'Aqbat Jaber R.C.,23,Jericho,3.0
+Tulkarm,24,Tulkarm,23.0
+Ein Beit al-Maa R.C.,25,Nablus,24.0
+Jenin R.C.,26,Jenin,7.0
+Jenin R.C.,27,Jenin,7.0
+Jalqamus,28,Jenin,27.0
+Rummana,29,Jenin,28.0
+Bat Yam,30,Israel,29.0
+Burka,31,Ramallah and al-Bira,30.0
+Nur Shams R.C.,32,Tulkarm,0.0
+Silwad,33,Ramallah and al-Bira,32.0
+al-'Eizariyah,34,al-Quds,33.0
+a-Samu',35,Hebron,34.0
+Ein Beit al-Maa R.C.,36,Nablus,24.0
+Nablus,37,Nablus,36.0
+Nablus,38,Nablus,36.0
+Nablus,39,Nablus,36.0
+Sabastiya,40,Nablus,39.0
+Deir Dobwan,41,Ramallah and al-Bira,40.0
+Nablus,42,Nablus,36.0
+Shuqba,43,Ramallah and al-Bira,42.0
+Nablus,44,Nablus,36.0
+Nablus,45,Nablus,36.0
+Arura,46,Ramallah and al-Bira,45.0
+a-Samu',47,Hebron,34.0
+Meithalun,48,Jenin,47.0
+Fahma,49,Jenin,48.0
+Jenin R.C.,50,Jenin,7.0
+Jenin R.C.,51,Jenin,7.0
+Jenin R.C.,52,Jenin,7.0
+Ramallah,53,Ramallah and al-Bira,52.0
+Jenin R.C.,54,Jenin,7.0
+Jenin R.C.,55,Jenin,7.0
+Jenin R.C.,56,Jenin,7.0
+Jenin R.C.,57,Jenin,7.0
+Jenin R.C.,58,Jenin,7.0
+Jenin R.C.,59,Jenin,7.0
+Jaba',60,Jenin,59.0
+Kafr 'Aqab (Jerusalem),61,East Jerusalem,60.0
+Askar R.C.,62,Nablus,61.0
+Jenin R.C.,63,Jenin,7.0
+Jenin R.C.,64,Jenin,7.0
+Turmusaya,65,Ramallah and al-Bira,64.0
+Jenin R.C.,66,Jenin,7.0
+Ahiya,67,Ramallah and al-Bira,66.0
+Urif,68,Nablus,67.0
+Urif,69,Nablus,67.0
+Yad Binyamin,70,Israel,69.0
+Eli,71,Nablus,70.0
+Eli,72,Nablus,70.0
+Tubas,73,Tubas,72.0
+Jenin R.C.,74,Jenin,7.0
+Husan,75,Bethlehem,74.0
+Jenin R.C.,76,Jenin,7.0
+Jenin,77,Jenin,4.0
+Jenin R.C.,78,Jenin,7.0
+Wadi Burqin,79,Jenin,78.0
+Jenin R.C.,80,Jenin,7.0
+Ein Beit al-Maa R.C.,81,Nablus,24.0
+Balata R.C.,82,Nablus,20.0
+Ramallah,83,Ramallah and al-Bira,52.0
+a-Nabi Saleh,84,Ramallah and al-Bira,83.0
+Hermesh,85,Jenin,84.0
+Jenin,86,Jenin,4.0
+a-Dhahiriyah,87,Hebron,86.0
+Balata R.C.,88,Nablus,20.0
+Balata R.C.,89,Nablus,20.0
+Balata R.C.,90,Nablus,20.0
+'Askar R.C. (New),91,Nablus,90.0
+Balata R.C.,92,Nablus,20.0
+Jenin,93,Jenin,4.0
+Balata R.C.,94,Nablus,20.0
+a-Shati' Camp,95,Gaza,94.0
+a-Shati' Camp,96,Gaza,94.0
+Khan Yunis,97,Khan Yunis,6.0
+Nur Shams R.C.,98,Tulkarm,0.0
+Rafah,99,Rafah,98.0
+Rehovot,100,Israel,99.0
+Bani Suheila,101,Khan Yunis,100.0
+a-Nuseirat Camp,102,Deir al-Balah,101.0
+Jabalya R.C.,103,North Gaza,102.0
+Jabalya R.C.,104,North Gaza,102.0
+Gaza city,105,Gaza,104.0
+Gaza city,106,Gaza,104.0
+Khan Yunis,107,Khan Yunis,6.0
+Jenin R.C.,108,Jenin,7.0
+Abasan al-Kabira,109,Khan Yunis,108.0
+Abasan al-Kabira,110,Khan Yunis,108.0
+Rafah,111,Rafah,98.0
+Rafah,112,Rafah,98.0
+Qabatiyah,113,Jenin,112.0
+Qabatiyah,114,Jenin,112.0
+Gaza city,115,Gaza,104.0
+Gaza city,116,Gaza,104.0
+Khan Yunis,117,Khan Yunis,6.0
+Khan Yunis,118,Khan Yunis,6.0
+Gaza city,119,Gaza,104.0
+Gaza city,120,Gaza,104.0
+Gaza city,121,Gaza,104.0
+Gaza city,122,Gaza,104.0
+Gaza city,123,Gaza,104.0
+Rafah,124,Rafah,98.0
+Gaza city,125,Gaza,104.0
+Rafah,126,Rafah,98.0
+Gaza city,127,Gaza,104.0
+Gaza city,128,Gaza,104.0
+Gaza city,129,Gaza,104.0
+Tulkarm R.C.,130,Tulkarm,129.0
+Tulkarm R.C.,131,Tulkarm,129.0
+Huwara,132,Nablus,131.0
+Nablus,133,Nablus,36.0
+Nablus,134,Nablus,36.0
+Nablus,135,Nablus,36.0
+Jabalya R.C.,136,North Gaza,102.0
+'Aqbat Jaber R.C.,137,Jericho,3.0
+Tekoa,138,Bethlehem,137.0
+Bidya,139,Salfit,138.0
+'Aqbat Jaber R.C.,140,Jericho,3.0
+Balata R.C.,141,Nablus,20.0
+Balata R.C.,142,Nablus,20.0
+Shu'fat R.C.,143,East Jerusalem,142.0
+Azzun,144,Qalqiliya,143.0
+Efrat,145,Bethlehem,144.0
+Efrat,146,Bethlehem,144.0
+Efrat,147,Bethlehem,144.0
+Nablus,148,Nablus,36.0
+Nablus,149,Nablus,36.0
+Surif,150,Hebron,149.0
+'Izbat Shufah,151,Tulkarm,150.0
+Qaffin,152,Tulkarm,151.0
+Jenin,153,Jenin,4.0
+Jenin R.C.,154,Jenin,7.0
+Jenin,155,Jenin,4.0
+Jenin,156,Jenin,4.0
+Nablus,157,Nablus,36.0
+Nablus,158,Nablus,36.0
+Nablus,159,Nablus,36.0
+Sanniriya,160,Qalqiliya,159.0
+Qalqiliya,161,Qalqiliya,160.0
+Tel Aviv-Yafo,162,Israel,161.0
+Jaba',163,Jenin,59.0
+Ni'lin,164,Ramallah and al-Bira,163.0
+Jaba',165,Jenin,59.0
+Jaba',166,Jenin,59.0
+Jenin R.C.,167,Jenin,7.0
+Jenin,168,Jenin,4.0
+Jenin R.C.,169,Jenin,7.0
+Jenin R.C.,170,Jenin,7.0
+Askar R.C.,171,Nablus,61.0
+Birqin,172,Jenin,171.0
+Jenin R.C.,173,Jenin,7.0
+Azzun,174,Qalqiliya,143.0
+'Aqbat Jaber R.C.,175,Jericho,3.0
+,176,,
+Har Bracha,177,Nablus,176.0
+Har Bracha,178,Nablus,176.0
+al-'Arrub Camp,179,Hebron,9.0
+Nablus,180,Nablus,36.0
+Nablus,181,Nablus,36.0
+Nablus,182,Nablus,36.0
+Nablus,183,Nablus,36.0
+Nablus,184,Nablus,36.0
+Nablus,185,Nablus,36.0
+Nablus,186,Nablus,36.0
+Nablus,187,Nablus,36.0
+Nablus,188,Nablus,36.0
+Nablus,189,Nablus,36.0
+Nablus,190,Nablus,36.0
+al-Far'a Camp,191,Tubas,190.0
+Nablus,192,Nablus,36.0
+Jenin R.C.,193,Jenin,7.0
+al-'Araqah,194,Jenin,193.0
+Qarawat Bani Hassan,195,Salfit,194.0
+Ramot Alon,196,East Jerusalem,195.0
+Ramot Alon,197,East Jerusalem,195.0
+Jerusalem,198,Israel,197.0
+al-'Esawiyah,199,East Jerusalem,198.0
+a-Dhahiriyah,200,Hebron,86.0
+Balata R.C.,201,Nablus,20.0
+Askar R.C.,202,Nablus,61.0
+'Aqbat Jaber R.C.,203,Jericho,3.0
+'Aqbat Jaber R.C.,204,Jericho,3.0
+'Aqbat Jaber R.C.,205,Jericho,3.0
+'Aqbat Jaber R.C.,206,Jericho,3.0
+'Aqbat Jaber R.C.,207,Jericho,3.0
+al-Judeidah,208,Jenin,207.0
+Hebron,209,Hebron,208.0
+Qusin,210,Nablus,209.0
+Ras al-'Amud,211,East Jerusalem,210.0
+Pisgat Ze'ev,212,East Jerusalem,211.0
+Bet Shemesh,213,Israel,212.0
+Bet Shemesh,214,Israel,212.0
+Neve Ya'akov,215,East Jerusalem,214.0
+Jerusalem,216,Israel,197.0
+Neve Ya'akov,217,East Jerusalem,214.0
+Birqin,218,Jenin,171.0
+al-Yamun,219,Jenin,2.0
+Jenin R.C.,220,Jenin,7.0
+Birqin,221,Jenin,171.0
+Jenin R.C.,222,Jenin,7.0
+Jenin R.C.,223,Jenin,7.0
+Jenin R.C.,224,Jenin,7.0
+a-Ram,225,al-Quds,224.0
+Jenin R.C.,226,Jenin,7.0
+Jenin R.C.,227,Jenin,7.0
+Jenin R.C.,228,Jenin,7.0
+Shu'fat R.C.,229,East Jerusalem,142.0
+Silwan,230,East Jerusalem,229.0
+Jenin R.C.,231,Jenin,7.0
+a-Duheisheh R.C.,232,Bethlehem,231.0
+Kafr Ni'ma,233,Ramallah and al-Bira,232.0
+Jenin R.C.,234,Jenin,7.0
+Jenin R.C.,235,Jenin,7.0
+Halhul,236,Hebron,235.0
+Rammun,237,Ramallah and al-Bira,236.0
+Jaba',238,Jenin,59.0
+Jaba',239,Jenin,59.0
+Qabatiyah,240,Jenin,112.0
+Qabatiyah,241,Jenin,112.0
+a-Dhahiriyah,242,Hebron,86.0
+Qalandiya Camp,243,al-Quds,242.0
+Balata R.C.,244,Nablus,20.0
+Nablus,245,Nablus,36.0
+a-Duheisheh R.C.,246,Bethlehem,231.0
+al-Yamun,247,Jenin,2.0
+al-Yamun,248,Jenin,2.0
+Kfar Dan,249,Jenin,248.0
+Tubas,250,Tubas,72.0
+Jenin,251,Jenin,4.0
+Jenin,252,Jenin,4.0
+Jenin R.C.,253,Jenin,7.0
+Beit Rima,254,Ramallah and al-Bira,253.0
+Qabatiyah,255,Jenin,112.0
+Silwad,256,Ramallah and al-Bira,32.0
+a-Duheisheh R.C.,257,Bethlehem,231.0
+Osarin,258,Nablus,257.0
+Jenin R.C.,259,Jenin,7.0
+Jenin R.C.,260,Jenin,7.0
+Ya'bad,261,Jenin,260.0
+Jaba',262,al-Quds,261.0
+Beit Rima,263,Ramallah and al-Bira,253.0
+Beit Rima,264,Ramallah and al-Bira,253.0
+al-Mughayir,265,Ramallah and al-Bira,264.0
+Beit Ummar,266,Hebron,265.0
+Jerusalem,267,Israel,197.0
+Jerusalem,268,Israel,197.0
+Askar R.C.,269,Nablus,61.0
+Nablus,270,Nablus,36.0
+Jenin R.C.,271,Jenin,7.0
+Bat Yam,272,Israel,29.0
+Haris,273,Salfit,272.0
+Kiryat Netafim,274,Tulkarm,273.0
+Yavne,275,Israel,274.0
+al-Birah,276,Ramallah and al-Bira,275.0
+Sanur,277,Jenin,276.0
+Balata R.C.,278,Nablus,20.0
+al-Mazra'a a-Sharqiya,279,Ramallah and al-Bira,278.0
+Jenin R.C.,280,Jenin,7.0
+Beit Hanina,281,East Jerusalem,14.0
+Beit Duqu,282,al-Quds,281.0
+Birqin,283,Jenin,171.0
+Beit Duqu,284,al-Quds,281.0
+Kiryat Arba,285,Hebron,284.0
+Askar R.C.,286,Nablus,61.0
+Askar R.C.,287,Nablus,61.0
+a-Nabi Saleh,288,Ramallah and al-Bira,83.0
+Nablus,289,Nablus,36.0
+Nablus,290,Nablus,36.0
+Nablus,291,Nablus,36.0
+Nablus,292,Nablus,36.0
+Petah Tikva,293,Israel,292.0
+Nablus,294,Nablus,36.0
+Qalqiliya,295,Qalqiliya,160.0
+Jenin R.C.,296,Jenin,7.0
+'Anata new (Dahiyat a-Salam),297,East Jerusalem,296.0
+Deir Jarir,298,Ramallah and al-Bira,297.0
+Qarawat Bani Hassan,299,Salfit,194.0
+Jenin R.C.,300,Jenin,7.0
+Jenin,301,Jenin,4.0
+al-'Arrub Camp,302,Hebron,9.0
+Tubas,303,Tubas,72.0
+Jenin,304,Jenin,4.0
+Qalqiliya,305,Qalqiliya,160.0
+al-Mazra'ah al-Qibliyah,306,Ramallah and al-Bira,305.0
+Askar R.C.,307,Nablus,61.0
+Bir Zeit,308,Ramallah and al-Bira,307.0
+al-Jalazun R.C.,309,Ramallah and al-Bira,308.0
+al-'Eizariyah,310,al-Quds,33.0
+Anza,311,Jenin,310.0
+Jenin R.C.,312,Jenin,7.0
+Jenin R.C.,313,Jenin,7.0
+al-Yamun,314,Jenin,2.0
+Jenin R.C.,315,Jenin,7.0
+Bitunya,316,Ramallah and al-Bira,315.0
+Nablus,317,Nablus,36.0
+Beit Ijza,318,al-Quds,317.0
+a-Tur,319,East Jerusalem,318.0
+Holon,320,Israel,319.0
+Kfar Dan,321,Jenin,248.0
+Kfar Dan,322,Jenin,248.0
+Kfar Dan,323,Jenin,248.0
+Bitunya,324,Ramallah and al-Bira,315.0
+al-Far'a Camp,325,Tubas,190.0
+Jenin,326,Jenin,4.0
+Jenin,327,Jenin,4.0
+Qabatiyah,328,Jenin,112.0
+a-Duheisheh R.C.,329,Bethlehem,231.0
+Qalandiya Camp,330,al-Quds,242.0
+Tubas,331,Tubas,72.0
+Balata R.C.,332,Nablus,20.0
+Kafr 'Aqab (Jerusalem),333,East Jerusalem,60.0
+Nablus,334,Nablus,36.0
+Hebron,335,Hebron,208.0
+Nablus,336,Nablus,36.0
+Nablus,337,Nablus,36.0
+Nablus,338,Nablus,36.0
+Jabalya R.C.,339,North Gaza,102.0
+Jabalya R.C.,340,North Gaza,102.0
+Jabalya R.C.,341,North Gaza,102.0
+Jabalya R.C.,342,North Gaza,102.0
+Jabalya R.C.,343,North Gaza,102.0
+Gaza city,344,Gaza,104.0
+Gaza city,345,Gaza,104.0
+Gaza city,346,Gaza,104.0
+Gaza city,347,Gaza,104.0
+Beit Hanun,348,North Gaza,347.0
+Rafah R.C.,349,Rafah,348.0
+Rafah R.C.,350,Rafah,348.0
+Rafah R.C.,351,Rafah,348.0
+Rafah,352,Rafah,98.0
+Rafah R.C.,353,Rafah,348.0
+Rafah R.C.,354,Rafah,348.0
+Rafah R.C.,355,Rafah,348.0
+Khan Yunis,356,Khan Yunis,6.0
+Khan Yunis,357,Khan Yunis,6.0
+Beit Hanun,358,North Gaza,347.0
+a-Nuseirat Camp,359,Deir al-Balah,101.0
+Jabalya,360,North Gaza,359.0
+al-Fukhari,361,Khan Yunis,360.0
+Gaza city,362,Gaza,104.0
+Gaza city,363,Gaza,104.0
+Khan Yunis,364,Khan Yunis,6.0
+Khan Yunis,365,Khan Yunis,6.0
+Khan Yunis,366,Khan Yunis,6.0
+Gaza city,367,Gaza,104.0
+Beit Lahiya,368,North Gaza,367.0
+Gaza city,369,Gaza,104.0
+Gaza city,370,Gaza,104.0
+Gaza city,371,Gaza,104.0
+Jenin,372,Jenin,4.0
+Awarta,373,Nablus,372.0
+Nablus,374,Nablus,36.0
+Nablus,375,Nablus,36.0
+Nablus,376,Nablus,36.0
+Jaba',377,Jenin,59.0
+Jaba',378,Jenin,59.0
+Jenin R.C.,379,Jenin,7.0
+Silwad,380,Ramallah and al-Bira,32.0
+Iskaka,381,Salfit,380.0
+Sarra,382,Nablus,381.0
+Jenin,383,Jenin,4.0
+Jenin R.C.,384,Jenin,7.0
+Jenin,385,Jenin,4.0
+Halhul,386,Hebron,235.0
+al-Midya,387,Ramallah and al-Bira,386.0
+a-Duheisheh R.C.,388,Bethlehem,231.0
+Ya'bad,389,Jenin,260.0
+Ya'bad,390,Jenin,260.0
+Shuyukh al-'Arrub,391,Hebron,390.0
+al-Khader,392,Bethlehem,391.0
+Nablus,393,Nablus,36.0
+Jenin,394,Jenin,4.0
+Jenin R.C.,395,Jenin,7.0
+Um a-Sharayet - Samiramis,396,Ramallah and al-Bira,395.0
+Beit Hanina,397,East Jerusalem,14.0
+Khan Yunis,398,Khan Yunis,6.0
+Harmala,399,Bethlehem,398.0
+Elad,400,Israel,399.0

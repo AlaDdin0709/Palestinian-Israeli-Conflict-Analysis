@@ -1,0 +1,89 @@
+﻿<DeploymentSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Target>
+    <Database>WarVictimsAnalysis</Database>
+    <Server>local</Server>
+    <ConnectionString>Data Source=local;Timeout=0</ConnectionString>
+  </Target>
+  <Options>
+    <TransactionalDeployment>false</TransactionalDeployment>
+    <PartitionDeployment>DeployPartitions</PartitionDeployment>
+    <RoleDeployment>DeployRolesRetainMembers</RoleDeployment>
+    <ProcessingOption>Default</ProcessingOption>
+    <OutputScript></OutputScript>
+    <ImpactAnalysisFile></ImpactAnalysisFile>
+    <ConfigurationSettingsDeployment>Deploy</ConfigurationSettingsDeployment>
+    <OptimizationSettingsDeployment>Deploy</OptimizationSettingsDeployment>
+    <WriteBackTableCreation>UseExisting</WriteBackTableCreation>
+  </Options>
+  <Snapshot>
+    <ObjectSnapshots>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
+        <TimeStamp>fDKkHAGo3pgp+xyu0oIBiwszcLo=10/12/2023 15:34:4210/12/2023 15:34:42</TimeStamp>
+        <ID>
+          <String>War Victims In Palestine</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.DataSourceView</Type>
+        <TimeStamp>RX8Y2N3z39TrzN0lS2KS/bKdNg4=10/12/2023 15:36:1010/12/2023 15:36:10</TimeStamp>
+        <ID>
+          <String>War Victims In Palestine</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>B1xFSkklgBFPHCnXYeDLt0VGltc=10/12/2023 16:02:1610/12/2023 15:38:30</TimeStamp>
+        <ID>
+          <String>Date</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>sqRmLOtRSVTL5crtwdlHRlIOd4Q=10/12/2023 16:34:2610/12/2023 15:38:30</TimeStamp>
+        <ID>
+          <String>Killing Info</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>ldWlaEBXgaebz/q1WGhpCHvxHws=10/12/2023 16:34:5610/12/2023 15:38:30</TimeStamp>
+        <ID>
+          <String>Person</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>rQFdb8WsL8VmImsrmOboNbFWFj0=10/12/2023 16:35:1310/12/2023 15:38:30</TimeStamp>
+        <ID>
+          <String>Origin</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>HqVqODZleFlySrs3r/fvlfeAiKw=10/12/2023 16:35:3510/12/2023 15:38:30</TimeStamp>
+        <ID>
+          <String>Location</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>ZAZI57O5NW81t1zjW70O0hLLZoo=10/12/2023 16:35:3510/12/2023 15:38:30DMK91IqCGwG/GM7y9H/vT2WVg3c=10/12/2023 15:38:3010/12/2023 15:38:30</TimeStamp>
+        <ID>
+          <String>War Victims In Palestine</String>
+        </ID>
+      </ObjectSnapshot>
+    </ObjectSnapshots>
+    <DatabaseSnapshot>
+      <Type>Microsoft.AnalysisServices.Database</Type>
+      <TimeStamp>Jlz/8jiwBg21iHkgNlNJMS1tBOQ=10/12/2023 15:14:3210/12/2023 15:14:31</TimeStamp>
+      <ID>
+        <String>WarVictimsAnalysis</String>
+      </ID>
+    </DatabaseSnapshot>
+    <Granularity>Coarse</Granularity>
+  </Snapshot>
+  <AssemblyLocations />
+  <ProcessingComplete>true</ProcessingComplete>
+  <LastDeployed>2023-12-10T16:34:45.38Z</LastDeployed>
+</DeploymentSnapshot>

@@ -1,0 +1,19 @@
+1-
+  select [Measures].[Murder Weapon Count] ON COLUMNS, [Killing Info].[Type Of Injury].Members ON ROWS
+FROM [War Victims In Palestine];
+
+2-
+select [Location].[District].members on 0,[Killing Info].[Type Of Injury].members on 1
+from [War Victims In Palestine];
+
+3-
+select [Measures].[Total Murder] on 0, [Date].[Year Of Death].members on 1
+from [War Victims In Palestine];
+
+4-
+select [Killing Info].[Type Of Injury].members on 0,[Person].[Name].members on 1
+from [War Victims In Palestine];
+
+5-
+select [Origin].[Country].members on 0,  [Location].[Region].members on 1
+from [War Victims In Palestine];
